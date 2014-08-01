@@ -5,16 +5,16 @@
 #midlevel_associate_survey-container { width:730px; height:auto; font-family:helvetica, arial; font-size:9pt; color:#333; text-align:left; position:relative; margin-left:30px; }
 
 /*maps*/
-#midlevel_associate_survey-map1_container { width:730px; height:436px; background-image:url('map_bg.gif'); background-repeat:no-repeat; }
-#midlevel_associate_survey-map2_container { width:503px; height:436px; background-image:url('map2_bg.png'); background-repeat:no-repeat; position:absolute; display:none; right:10px; z-index:7; }
+#midlevel_associate_survey-map1_container { width:730px; height:436px; background-image:url('images/map_bg.png'); background-repeat:no-repeat; }
+#midlevel_associate_survey-map2_container { width:503px; height:436px; background-image:url('images/map2_bg.png'); background-repeat:no-repeat; position:absolute; display:none; right:10px; z-index:7; }
 #midlevel_associate_survey-map2_img { z-index:6; position:absolute; visibility:hidden; right:10px; }
 
 /*map zoom*/
-#midlevel_associate_survey-map_zoom { width:134px; height:109px; background-image:url('map_zoom.png'); background-repeat:no-repeat; position:absolute; top:140px; right:30px; cursor:pointer; }
+#midlevel_associate_survey-map_zoom { width:134px; height:109px; background-image:url('images/map_zoom.png'); background-repeat:no-repeat; position:absolute; top:140px; right:30px; cursor:pointer; }
 #midlevel_associate_survey-map2_close { position:absolute; top:400px; right:45px; cursor:pointer; display:none; }
 
 /*click block*/
-#midlevel_associate_survey-click_block { width:730px; height:436px; position:absolute; background-image:url('click_block.png'); background-repeat:no-repeat; z-index:5; display:none; }
+#midlevel_associate_survey-click_block { width:730px; height:436px; position:absolute; background-image:url('images/click_block.png'); background-repeat:no-repeat; z-index:5; display:none; }
 
 /*table*/
 #midlevel_associate_survey-table-header { font-weight:bold; color:#716F4B; display:none; }
