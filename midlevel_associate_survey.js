@@ -33,20 +33,20 @@ function buildPage(){
 	//get css
 	var style = 'midlevel_associate_survey.css';
 
-	if($.browser.msie){
-		isie = true;
+//	if($.browser.msie){
+//		isie = true;
 				
-		document.createStyleSheet(style);
+//		document.createStyleSheet(style);
 
-		if($.browser.version == 7){
+//		if($.browser.version == 7){
 			
 		}
-	}else{
+//	}else{
 		var link = $('<link />');
 		
 		$(link).attr({ type: 'text/css', rel: 'stylesheet', href: style });
 		$("head").append( link );
-	}	
+//	}	
 	
 	//get xml for map 1
 	$.get('http://www.americanlawyer.com/xml/tal/midlevel_associates/2012/midlevel_city-map1.xml', function(data){
