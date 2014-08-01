@@ -14,7 +14,7 @@
 #midlevel_associate_survey-map2_close { position:absolute; top:400px; right:45px; cursor:pointer; display:none; }
 
 /*click block*/
-#midlevel_associate_survey-click_block { width:730px; height:436px; position:absolute; background-image:url('/image/tal/midlevel_associates/2012/click_block.png'); background-repeat:no-repeat; z-index:5; display:none; }
+#midlevel_associate_survey-click_block { width:730px; height:436px; position:absolute; background-image:url('click_block.png'); background-repeat:no-repeat; z-index:5; display:none; }
 
 /*table*/
 #midlevel_associate_survey-table-header { font-weight:bold; color:#716F4B; display:none; }
@@ -27,11 +27,11 @@ table.tablescroll > tbody tr { cursor:pointer; }
 
 /*survey*/
 #midlevel_associate_survey-answers_container { display:none; width:397px; height:auto; position:absolute; top:10px; left:10px; z-index:7; cursor:pointer; }
-#midlevel_associate_survey-answers-top-top { width:397px; height:47px; background-image:url('/image/tal/midlevel_associates/2012/survey_bg-top-top.png'); background-repeat:no-repeat; }
-#midlevel_associate_survey-answers-top-mid { width:327px; height:auto; background-image:url('/image/tal/midlevel_associates/2012/survey_bg-top-mid.png'); background-repeat:repeat-y; padding:0 25px 0 45px; }
-#midlevel_associate_survey-answers-top-bot { width:397px; height:11px; background-image:url('/image/tal/midlevel_associates/2012/survey_bg-top-bot.png'); background-repeat:no-repeat; }
-#midlevel_associate_survey-answers-bot-mid { width:347px; height:auto; background-image:url('/image/tal/midlevel_associates/2012/survey_bg-bot-mid.png'); background-repeat:repeat-y; padding:10px 25px 0 25px; }
-#midlevel_associate_survey-answers-bot-bot { width:397px; height:31px; background-image:url('/image/tal/midlevel_associates/2012/survey_bg-bot-bot.png'); background-repeat:no-repeat; }
+#midlevel_associate_survey-answers-top-top { width:397px; height:47px; background-image:url('http://www.americanlawyer.com//image/tal/midlevel_associates/2012/survey_bg-top-top.png'); background-repeat:no-repeat; }
+#midlevel_associate_survey-answers-top-mid { width:327px; height:auto; background-image:url('http://www.americanlawyer.com//image/tal/midlevel_associates/2012/survey_bg-top-mid.png'); background-repeat:repeat-y; padding:0 25px 0 45px; }
+#midlevel_associate_survey-answers-top-bot { width:397px; height:11px; background-image:url('http://www.americanlawyer.com//image/tal/midlevel_associates/2012/survey_bg-top-bot.png'); background-repeat:no-repeat; }
+#midlevel_associate_survey-answers-bot-mid { width:347px; height:auto; background-image:url('http://www.americanlawyer.com//image/tal/midlevel_associates/2012/survey_bg-bot-mid.png'); background-repeat:repeat-y; padding:10px 25px 0 25px; }
+#midlevel_associate_survey-answers-bot-bot { width:397px; height:31px; background-image:url('http://www.americanlawyer.com//image/tal/midlevel_associates/2012/survey_bg-bot-bot.png'); background-repeat:no-repeat; }
 
 #midlevel_associate_survey-answers-bot-mid ul { list-style-type:none; margin:0; padding:5px 0 5px 0; font-size:10pt; color:#555537;  }
 #midlevel_associate_survey-answers-bot-mid ul li { padding:7px 0; margin:0 20px; }
