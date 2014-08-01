@@ -40,7 +40,7 @@ function buildPage(){
 
 //		if($.browser.version == 7){
 			
-		}
+//		}
 //	}else{
 		var link = $('<link />');
 		
