@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cities>
+<city cityName="Princeton" x="378" y="194">
+			<cityRank>7</cityRank>
+			<cityScore>4.33333333333333</cityScore>
+		</city>
+<city cityName="Armonk" x="378" y="194">
+			<cityRank>10</cityRank>
+			<cityScore>4.28571428571429</cityScore>
+		</city>
+<city cityName="Baltimore" x="378" y="194">
+			<cityRank>24</cityRank>
+			<cityScore>4.1216049382716</cityScore>
+		</city>
+<city cityName="Washington" x="378" y="194">
+			<cityRank>28</cityRank>
+			<cityScore>4.082</cityScore>
+		</city>
+<city cityName="New York" x="378" y="194">
+			<cityRank>32</cityRank>
+			<cityScore>4.002</cityScore>
+		</city>
+<city cityName="Philadelphia" x="378" y="194">
+			<cityRank>36</cityRank>
+			<cityScore>3.984</cityScore>
+		</city>
+<city cityName="Newark" x="378" y="194">
+			<cityRank>37</cityRank>
+			<cityScore>3.96833333333333</cityScore>
+		</city> 
+<city cityName="Lawrenceville" x="378" y="194">
+			<cityRank>38</cityRank>
+			<cityScore>3.81666666666667</cityScore>
+		</city>
+<city cityName="Rochester" x="378" y="194">
+			<cityRank>41</cityRank>
+			<cityScore>3.52583333333333</cityScore>
+		</city>
+	</cities>
+</data>
