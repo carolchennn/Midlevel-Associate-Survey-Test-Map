@@ -70,7 +70,7 @@ function buildPage(){
 		$('#midlevel_associate_survey-answers_container').css('display', 'none');
 		
 		//clear content of map2
-		$('#midlevel_associate_survey-map2_container').html('<div id="map2_0"></div><div id="midlevel_associate_survey-map2_close" class="floatR"><img src="/image/tal/midlevel_associates/2012/map2_close.png" width="98" height="15" alt="close" title="close" /></div><div class="clear"></div>');
+		$('#midlevel_associate_survey-map2_container').html('<div id="map2_0"></div><div id="midlevel_associate_survey-map2_close" class="floatR"><img src="map2_close.png" width="98" height="15" alt="close" title="close" /></div><div class="clear"></div>');
 		
 		//display click block
 		$('#midlevel_associate_survey-click_block').css('display', 'block');
