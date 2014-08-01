@@ -355,7 +355,7 @@ function buildSalaryTable(cityname){
 	$('#midlevel_associate_survey-salary_table-container').html('');
 	
 	//get the xml(based on what map currently on)
-	$.get('/xml/tal/midlevel_associates/2012/midlevel_city-map'+map+'.xml', function(data){
+	$.get('midlevel_city-map'+map+'.xml', function(data){
 		$(data).find('city').each(function(){
 			var city = $(this).attr('cityName').toUpperCase();
 			
