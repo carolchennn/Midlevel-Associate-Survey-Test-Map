@@ -131,7 +131,7 @@ function buildMap(xml, map){
 		var mapContainer;
 		var cityID;
 		
-		$('#midlevel_associate_survey-map'+map+'_container #map'+map+'_'+i).after('<div id="midlevel_associate_survey-city_map'+map+'_'+i+'"><!--tooltip--><div class="midlevel_associate_survey-tooltip"><div class="midlevel_associate_survey-tooltip_top"></div><!--end midlevel_associate_survey-tooltip_top--><div class="midlevel_associate_survey-tooltip_mid" style="color:#716F4B;"><span class="midlevel_associate_survey-tooltip_cityName">'+cityName+'</span><br /><span class="midlevel_associate_survey-cityScore">Average Score: '+cityScore+'</span><br /><span class="midlevel_associate_survey-cityRank">City Rank: '+cityRank+'</span><br /><div class="midlevel_associate_survey-clickformore" style="color:#999; font-size:8pt; padding-top:4px;">Click for more details</div></div><!--end midlevel_associate_survey-tooltip_mid--><div class="midlevel_associate_survey-tooltip_bot"></div><!--end midlevel_associate_survey-tooltip_bot--></div><!--end midlevel_associate_survey-tooltip--><!--marker--><div class="midlevel_associate_survey-marker"><img src="/image/tal/midlevel_associates/2012/map_icon.png" width="10" height="10" /></div><!--end midlevel_associate_survey-marker--></div><!--end midlevel_associate_survey-city'+i+'--><div id="map'+map+'_'+incr+'"></div>');
+		$('#midlevel_associate_survey-map'+map+'_container #map'+map+'_'+i).after('<div id="midlevel_associate_survey-city_map'+map+'_'+i+'"><!--tooltip--><div class="midlevel_associate_survey-tooltip"><div class="midlevel_associate_survey-tooltip_top"></div><!--end midlevel_associate_survey-tooltip_top--><div class="midlevel_associate_survey-tooltip_mid" style="color:#716F4B;"><span class="midlevel_associate_survey-tooltip_cityName">'+cityName+'</span><br /><span class="midlevel_associate_survey-cityScore">Average Score: '+cityScore+'</span><br /><span class="midlevel_associate_survey-cityRank">City Rank: '+cityRank+'</span><br /><div class="midlevel_associate_survey-clickformore" style="color:#999; font-size:8pt; padding-top:4px;">Click for more details</div></div><!--end midlevel_associate_survey-tooltip_mid--><div class="midlevel_associate_survey-tooltip_bot"></div><!--end midlevel_associate_survey-tooltip_bot--></div><!--end midlevel_associate_survey-tooltip--><!--marker--><div class="midlevel_associate_survey-marker"><img src="images/map_icon.png" width="10" height="10" /></div><!--end midlevel_associate_survey-marker--></div><!--end midlevel_associate_survey-city'+i+'--><div id="map'+map+'_'+incr+'"></div>');
 			
 		//position marker
 		$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-marker').css('left', x+'px');
@@ -227,7 +227,7 @@ function buildMap(xml, map){
 				$('#midlevel_associate_survey-answers_container').css('display', 'none');
 		
 				//clear content of map2
-				$('#midlevel_associate_survey-map2_container').html('<div id="map2_0"></div><div id="midlevel_associate_survey-map2_close" class="floatR"><img src="/images/map2_close.png" width="98" height="15" alt="close" title="close" /></div><div class="clear"></div>');
+				$('#midlevel_associate_survey-map2_container').html('<div id="map2_0"></div><div id="midlevel_associate_survey-map2_close" class="floatR"><img src="images/map2_close.png" width="98" height="15" alt="close" title="close" /></div><div class="clear"></div>');
 		
 				//display click block
 				$('#midlevel_associate_survey-click_block').css('display', 'block');
