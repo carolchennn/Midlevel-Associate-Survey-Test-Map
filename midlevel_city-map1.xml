@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<cities>
-		<city cityName="Kansas City">
+		<city cityName="Kansas City" x="100" y="100">
 			<cityRank>1</cityRank>
 			<cityScore>4.38095238095238</cityScore>
 		</city>
