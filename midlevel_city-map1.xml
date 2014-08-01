@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cities>
+		<city cityName="Kansas City">
+			<cityRank>1</cityRank>
+			<cityScore>4.38095238095238</cityScore>
+		</city>
+		<city cityName="Cleveland">
+			<cityRank>2</cityRank>
+			<cityScore>4.36481481481481</cityScore>
+		</city>
+		<city cityName="Charlotte">
+			<cityRank>3</cityRank>
+			<cityScore>4.35833333333333</cityScore>
+		</city>
+		<city cityName="Orange County">
+			<cityRank>4</cityRank>
+			<cityScore>4.35796321733822</cityScore>
+		</city>
+		<city cityName="Sacramento">
+			<cityRank>5</cityRank>
+			<cityScore>4.33531746031746</cityScore>
+		</city>
+		<city cityName="San Diego Metro">
+			<cityRank>6</cityRank>
+			<cityScore>4.33341901154401</cityScore>
+		</city>
+		<city cityName="Princeton">
+			<cityRank>7</cityRank>
+			<cityScore>4.33333333333333</cityScore>
+		</city>
+		<city cityName="Columbus">
+			<cityRank>8</cityRank>
+			<cityScore>4.33333333333333</cityScore>
+		</city>
+		<city cityName="Dallas">
+			<cityRank>9</cityRank>
+			<cityScore>4.28660508594719</cityScore>
+		</city>
+		<city cityName="Armonk">
+			<cityRank>10</cityRank>
+			<cityScore>4.28571428571429</cityScore>
+		</city>
+		<city cityName="Boston">
+			<cityRank>11</cityRank>
+			<cityScore>4.22998837401768</cityScore>
+		</city>
+		<city cityName="San Antonio">
+			<cityRank>12</cityRank>
+			<cityScore>4.22708333333333</cityScore>
+		</city>
+		<city cityName="Los Angeles">
+			<cityRank>13</cityRank>
+			<cityScore>4.22085745202056</cityScore>
+		</city>
+		<city cityName="Atlanta">
+			<cityRank>14</cityRank>
+			<cityScore>4.21958461323338</cityScore>
+		</city>
+		<city cityName="Austin">
+			<cityRank>15</cityRank>
+			<cityScore>4.20014880952381</cityScore>
+		</city>
+		<city cityName="Seattle">
+			<cityRank>16</cityRank>
+			<cityScore>4.19842171717172</cityScore>
+		</city>
+		<city cityName="Portland">
+			<cityRank>17</cityRank>
+			<cityScore>4.18055555555556</cityScore>
+		</city>
+		<city cityName="Indianapolis">
+			<cityRank>18</cityRank>
+			<cityScore>4.17307692307692</cityScore>
+		</city>
+		<city cityName="Silicon Valley">
+			<cityRank>19</cityRank>
+			<cityScore>4.17306440252869</cityScore>
+		</city>
+		<city cityName="St. Louis">
+			<cityRank>20</cityRank>
+			<cityScore>4.16185897435897</cityScore>
+		</city>
+		<city cityName="San Francisco">
+			<cityRank>21</cityRank>
+			<cityScore>4.16138295086979</cityScore>
+		</city>
+		<city cityName="Tampa">
+			<cityRank>22</cityRank>
+			<cityScore>4.14583333333333</cityScore>
+		</city>
+		<city cityName="Houston">
+			<cityRank>23</cityRank>
+			<cityScore>4.13057966142332</cityScore>
+		</city>
+		<city cityName="Baltimore">
+			<cityRank>24</cityRank>
+			<cityScore>4.1216049382716</cityScore>
+		</city>
+		<city cityName="Miami">
+			<cityRank>25</cityRank>
+			<cityScore>4.12135416666667</cityScore>
+		</city>
+		<city cityName="Wilmington">
+			<cityRank>26</cityRank>
+			<cityScore>4.09166666666667</cityScore>
+		</city>
+		<city cityName="Chicago">
+			<cityRank>27</cityRank>
+			<cityScore>4.083</cityScore>
+		</city>
+		<city cityName="Washington">
+			<cityRank>28</cityRank>
+			<cityScore>4.082</cityScore>
+		</city>
+		<city cityName="Phoenix">
+			<cityRank>29</cityRank>
+			<cityScore>4.06875</cityScore>
+		</city>
+		<city cityName="Milwaukee">
+			<cityRank>30</cityRank>
+			<cityScore>4.04083333333333</cityScore>
+		</city>
+		<city cityName="Pittsburgh">
+			<cityRank>31</cityRank>
+			<cityScore>4.038</cityScore>
+		</city>
+		<city cityName="New York">
+			<cityRank>32</cityRank>
+			<cityScore>4.002</cityScore>
+		</city>
+		<city cityName="Minneapolis">
+			<cityRank>33</cityRank>
+			<cityScore>4.001</cityScore>
+		</city>
+		<city cityName="Jacksonville">
+			<cityRank>34</cityRank>
+			<cityScore>4</cityScore>
+		</city>
+		<city cityName="Denver">
+			<cityRank>35</cityRank>
+			<cityScore>3.987</cityScore>
+		</city>
+		<city cityName="Philadelphia">
+			<cityRank>36</cityRank>
+			<cityScore>3.984</cityScore>
+		</city>
+		<city cityName="Newark">
+			<cityRank>37</cityRank>
+			<cityScore>3.96833333333333</cityScore>
+		</city>
+		<city cityName="Lawrenceville">
+			<cityRank>38</cityRank>
+			<cityScore>3.81666666666667</cityScore>
+		</city>
+		<city cityName="Louisville">
+			<cityRank>39</cityRank>
+			<cityScore>3.70416666666667</cityScore>
+		</city>
+		<city cityName="Albuquerque">
+			<cityRank>40</cityRank>
+			<cityScore>3.61666666666667</cityScore>
+		</city>
+		<city cityName="Rochester">
+			<cityRank>41</cityRank>
+			<cityScore>3.52583333333333</cityScore>
+		</city>
+		<city cityName="Nashville">
+			<cityRank>42</cityRank>
+			<cityScore>3.43333333333333</cityScore>
+		</city>
+	</cities>
+</data>
