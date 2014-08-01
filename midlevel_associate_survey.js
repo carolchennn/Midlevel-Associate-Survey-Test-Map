@@ -49,13 +49,13 @@ function buildPage(){
 //	}	
 	
 	//get xml for map 1
-	$.get('http://www.americanlawyer.com/xml/tal/midlevel_associates/2012/midlevel_city-map1.xml', function(data){
+	$.get('midlevel_city-map1.xml', function(data){
           xml1 = data;
            map = 1;
           buildMap(data, 1);
     });
     
-    $.get('http://www.americanlawyer.com/xml/tal/midlevel_associates/2012/midlevel_city-map2.xml', function(data){
+    $.get('midlevel_city-map2.xml', function(data){
           xml2 = data;
     });
     
@@ -288,7 +288,7 @@ function initTable(cityName){
 	
 	$('#midlevel_associate_survey-table_container').html('<table cellspacing="0" cellpadding="0" border="0" class="tablescroll" style="width:730px; margin:0; border:1px solid #c2beac; border-bottom:none; color:#716F4B;"><thead><tr style="background-color:#E0DCCA;"><th width="30" style="padding:10px; border-left:1px solid #c2beac; border-right:1px solid #c2beac; border-top:1px solid #c2beac; width:30px;">Rank</th><th width="495" style="padding:10px; border-right:1px solid #c2beac; border-top:1px solid #c2beac; width:495px;">Firm</th><th width="76" style="padding:10px; border-right:1px solid #c2beac; border-top:1px solid #c2beac; width:76px;">Respondents</th><th width="33" style="padding:10px; width:33px; border-right:1px solid #c2beac; border-top:1px solid #c2beac;">Score</th></tr></thead><tbody><tr style="background-color:#d89898;"><td width="30" style="width:30px;"></td><td width="495" style="width:495px;"></td><td width="76" style="width:76px;"></td><td width="33" style="width:33px;"></td></tr></tbody></table>');
 	
-	$.get('http://www.americanlawyer.com/xml/tal/midlevel_associates/2012/midlevel_city-data.xml', function(data){
+	$.get('midlevel_city-data.xml', function(data){
           buildTable(data, cityName);
     });
 };//end initTable
