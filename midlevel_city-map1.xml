@@ -3,95 +3,95 @@
 	<cities>
 		<city cityName="Kansas City" x="398" y="197">
 			<cityRank>1</cityRank>
-			<cityScore>4.38095238095238</cityScore>
+			<cityScore>4.381</cityScore>
 		</city>
 		<city cityName="Cleveland" x="536" y="153">
 			<cityRank>2</cityRank>
-			<cityScore>4.36481481481481</cityScore>
+			<cityScore>4.365</cityScore>
 		</city>
 		<city cityName="Charlotte" x="560" y="240">
 			<cityRank>3</cityRank>
-			<cityScore>4.35833333333333</cityScore>
+			<cityScore>4.358</cityScore>
 		</city>
 		<city cityName="Orange County" x="125" y="245">
 			<cityRank>4</cityRank>
-			<cityScore>4.35796321733822</cityScore>
+			<cityScore>4.358</cityScore>
 		</city>
 		<city cityName="Sacramento" x="100" y="165">
 			<cityRank>5</cityRank>
-			<cityScore>4.33531746031746</cityScore>
+			<cityScore>4.335</cityScore>
 		</city>
 		<city cityName="San Diego Metro" x="130" y="257">
 			<cityRank>6</cityRank>
-			<cityScore>4.33341901154401</cityScore>
+			<cityScore>4.333</cityScore>
 		</city>		
 		<city cityName="Columbus" x="525" y="172">
 			<cityRank>8</cityRank>
-			<cityScore>4.33333333333333</cityScore>
+			<cityScore>4.333</cityScore>
 		</city>
 		<city cityName="Dallas" x="370" y="290">
 			<cityRank>9</cityRank>
-			<cityScore>4.28660508594719</cityScore>
+			<cityScore>4.287</cityScore>
 		</city>
 		<city cityName="Boston" x="650" y="115">
 			<cityRank>11</cityRank>
-			<cityScore>4.22998837401768</cityScore>
+			<cityScore>4.230</cityScore>
 		</city>
 		<city cityName="San Antonio" x="350" y="335">
 			<cityRank>12</cityRank>
-			<cityScore>4.22708333333333</cityScore>
+			<cityScore>4.227</cityScore>
 		</city>
 		<city cityName="Los Angeles" x="125" y="245">
 			<cityRank>13</cityRank>
-			<cityScore>4.22085745202056</cityScore>
+			<cityScore>4.221</cityScore>
 		</city>
 		<city cityName="Atlanta" x="528" y="265">
 			<cityRank>14</cityRank>
-			<cityScore>4.21958461323338</cityScore>
+			<cityScore>4.220</cityScore>
 		</city>
 		<city cityName="Austin" x="360" y="320">
 			<cityRank>15</cityRank>
-			<cityScore>4.20014880952381</cityScore>
+			<cityScore>4.200</cityScore>
 		</city>
 		<city cityName="Seattle" x="133" y="40">
 			<cityRank>16</cityRank>
-			<cityScore>4.19842171717172</cityScore>
+			<cityScore>4.198</cityScore>
 		</city>
 		<city cityName="Portland" x="115" y="67">
 			<cityRank>17</cityRank>
-			<cityScore>4.18055555555556</cityScore>
+			<cityScore>4.181</cityScore>
 		</city>
 		<city cityName="Indianapolis" x="491" y="181">
 			<cityRank>18</cityRank>
-			<cityScore>4.17307692307692</cityScore>
+			<cityScore>4.173</cityScore>
 		</city>
 		<city cityName="Silicon Valley" x="90" y="183">
 			<cityRank>19</cityRank>
-			<cityScore>4.17306440252869</cityScore>
+			<cityScore>4.173</cityScore>
 		</city>
 		<city cityName="St. Louis" x="448" y="205">
 			<cityRank>20</cityRank>
-			<cityScore>4.16185897435897</cityScore>
+			<cityScore>4.162</cityScore>
 		</city>
 		<city cityName="San Francisco" x="85" y="174">
 			<cityRank>21</cityRank>
-			<cityScore>4.16138295086979</cityScore>
+			<cityScore>4.161</cityScore>
 		</city>
 		<city cityName="Tampa" x="564" y="345">
 			<cityRank>22</cityRank>
-			<cityScore>4.14583333333333</cityScore>
+			<cityScore>4.146</cityScore>
 		</city>
 		<city cityName="Houston" x="390" y="329">
 			<cityRank>23</cityRank>
-			<cityScore>4.13057966142332</cityScore>
+			<cityScore>4.131</cityScore>
 		</city>
 		<city cityName="Miami" x="593" y="368">
 			<cityRank>25</cityRank>
-			<cityScore>4.12135416666667</cityScore>
+			<cityScore>4.121</cityScore>
 		</city>
 		<city cityName="Wilmington" x="599" y="244">
 			<cityRank>26</cityRank>
-			<cityScore>4.09166666666667</cityScore>
+			<cityScore>4.092</cityScore>
 		</city>
 		<city cityName="Chicago" x="472" y="153">
 			<cityRank>27</cityRank>
@@ -99,11 +99,11 @@
 		</city>	
 		<city cityName="Phoenix" x="192" y="260">
 			<cityRank>29</cityRank>
-			<cityScore>4.06875</cityScore>
+			<cityScore>4.069</cityScore>
 		</city>
 		<city cityName="Milwaukee" x="468" y="133">
 			<cityRank>30</cityRank>
-			<cityScore>4.04083333333333</cityScore>
+			<cityScore>4.041</cityScore>
 		</city>
 		<city cityName="Pittsburgh" x="562" y="160">
 			<cityRank>31</cityRank>
@@ -115,7 +115,7 @@
 		</city>
 		<city cityName="Jacksonville" x="567" y="314">
 			<cityRank>34</cityRank>
-			<cityScore>4</cityScore>
+			<cityScore>4.000</cityScore>
 		</city>
 		<city cityName="Denver" x="290" y="183">
 			<cityRank>35</cityRank>
@@ -123,27 +123,27 @@
 		</city>	
 		<city cityName="Louisville" x="487" y="203">
 			<cityRank>39</cityRank>
-			<cityScore>3.70416666666667</cityScore>
+			<cityScore>3.704</cityScore>
 		</city>
 		<city cityName="Albuquerque" x="258" y="250">
 			<cityRank>40</cityRank>
-			<cityScore>3.61666666666667</cityScore>
+			<cityScore>3.617</cityScore>
 		</city>
 		<city cityName="Nashville" x="485" y="236">
 			<cityRank>42</cityRank>
-			<cityScore>3.43333333333333</cityScore>
+			<cityScore>3.433</cityScore>
 		</city>
                 <city cityName="Princeton" x="620" y="158">
 			<cityRank>7</cityRank>
-			<cityScore>4.33333333333333</cityScore>
+			<cityScore>4.333</cityScore>
 		</city>
                 <city cityName="Armonk" x="620" y="134">
 			<cityRank>10</cityRank>
-			<cityScore>4.28571428571429</cityScore>
+			<cityScore>4.286</cityScore>
 		</city>
                 <city cityName="Baltimore" x="600" y="170">
 			<cityRank>24</cityRank>
-			<cityScore>4.1216049382716</cityScore>
+			<cityScore>4.122</cityScore>
 		</city>
                 <city cityName="Washington" x="598" y="176">
 			<cityRank>28</cityRank>
@@ -159,15 +159,15 @@
 		</city>
                 <city cityName="Newark" x="615" y="148">
 			<cityRank>37</cityRank>
-			<cityScore>3.96833333333333</cityScore>
+			<cityScore>3.968</cityScore>
 		</city> 
                 <city cityName="Lawrenceville" x="617" y="155">
 			<cityRank>38</cityRank>
-			<cityScore>3.81666666666667</cityScore>
+			<cityScore>3.817</cityScore>
 		</city>
                 <city cityName="Rochester" x="580" y="123">
 			<cityRank>41</cityRank>
-			<cityScore>3.52583333333333</cityScore>
+			<cityScore>3.526</cityScore>
 		</city>
 	</cities>
 </data>
