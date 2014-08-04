@@ -73,7 +73,7 @@
 			<cityRank>20</cityRank>
 			<cityScore>4.16185897435897</cityScore>
 		</city>
-		<city cityName="San Francisco" x="86" y="176">
+		<city cityName="San Francisco" x="85" y="174">
 			<cityRank>21</cityRank>
 			<cityScore>4.16138295086979</cityScore>
 		</city>
@@ -137,7 +137,7 @@
 			<cityRank>7</cityRank>
 			<cityScore>4.33333333333333</cityScore>
 		</city>
-                <city cityName="Armonk" x="622" y="136">
+                <city cityName="Armonk" x="620" y="134">
 			<cityRank>10</cityRank>
 			<cityScore>4.28571428571429</cityScore>
 		</city>
