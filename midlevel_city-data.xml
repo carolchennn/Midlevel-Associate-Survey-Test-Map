@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<city cityName="Albuquerque" natRank="40">
 	<firm>
 		<firmName>Rodey, Dickason, Sloan, Akin &amp; Robb</firmName>
 		<city>Albuquerque</city>
@@ -20,6 +21,8 @@
 		<expect2years>3.60</expect2years>
 		<overall>3.80</overall>
 	</firm>
+</city>
+<city cityName="Armonk" natRank="10">
 	<firm>
 		<firmName>Boies, Schiller &amp; Flexner</firmName>
 		<city>Armonk</city>
@@ -40,6 +43,8 @@
 		<expect2years>4.43</expect2years>
 		<overall>4.71</overall>
 	</firm>
+</city>
+<city cityName="Atlanta" natRank="14">
 	<firm>
 		<firmName>Paul Hastings</firmName>
 		<city>Atlanta</city>
@@ -160,6 +165,8 @@
 		<expect2years>3.71</expect2years>
 		<overall>3.83</overall>
 	</firm>
+</city>
+<city cityName="Austin" natRank="15">
 	<firm>
 		<firmName>Vinson &amp; Elkins</firmName>
 		<city>Austin</city>
@@ -200,6 +207,8 @@
 		<expect2years>4.43</expect2years>
 		<overall>4.43</overall>
 	</firm>
+</city>
+<city cityName="Baltimore" natRank="24">
 	<firm>
 		<firmName>DLA Piper</firmName>
 		<city>Baltimore</city>
@@ -260,6 +269,8 @@
 		<expect2years>3.50</expect2years>
 		<overall>3.83</overall>
 	</firm>
+</city>
+<city cityName="Boston" natRank="11">
 	<firm>
 		<firmName>Nutter McClennen &amp; Fish</firmName>
 		<city>Boston</city>
@@ -560,6 +571,8 @@
 		<expect2years>3.40</expect2years>
 		<overall>4.20</overall>
 	</firm>
+</city>
+<city cityName="Charlotte" natRank="3">
 	<firm>
 		<firmName>Robinson Bradshaw &amp; Hinson</firmName>
 		<city>Charlotte</city>
@@ -580,6 +593,8 @@
 		<expect2years>4.60</expect2years>
 		<overall>4.70</overall>
 	</firm>
+</city>
+<city cityName="Chicago" natRank="27">
 	<firm>
 		<firmName>Paul Hastings</firmName>
 		<city>Chicago</city>
@@ -1040,6 +1055,8 @@
 		<expect2years>3.00</expect2years>
 		<overall>3.22</overall>
 	</firm>
+</city>
+<city cityName="Cleveland" natRank="2">
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
 		<city>Cleveland</city>
@@ -1060,6 +1077,8 @@
 		<expect2years>4.70</expect2years>
 		<overall>4.80</overall>
 	</firm>
+</city>
+<city cityName="Columbus" natRank="8">
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
 		<city>Columbus</city>
@@ -1080,6 +1099,8 @@
 		<expect2years>4.57</expect2years>
 		<overall>4.57</overall>
 	</firm>
+</city>
+<city cityName="Dallas" natRank="9">
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
 		<city>Dallas</city>
@@ -1220,6 +1241,8 @@
 		<expect2years>3.95</expect2years>
 		<overall>4.21</overall>
 	</firm>
+</city>
+<city cityName="Denver" natRank="35">
 	<firm>
 		<firmName>Holland &amp; Hart</firmName>
 		<city>Denver</city>
@@ -1280,6 +1303,8 @@
 		<expect2years>3.00</expect2years>
 		<overall>3.60</overall>
 	</firm>
+</city>
+<city cityName="Houston" natRank="23">
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
 		<city>Houston</city>
@@ -1480,6 +1505,8 @@
 		<expect2years>3.60</expect2years>
 		<overall>3.60</overall>
 	</firm>
+</city>
+<city cityName="Indianapolis" natRank="18">
 	<firm>
 		<firmName>Faegre Baker Daniels</firmName>
 		<city>Indianapolis</city>
@@ -1500,6 +1527,8 @@
 		<expect2years>4.46</expect2years>
 		<overall>4.46</overall>
 	</firm>
+</city>
+<city cityName="Jacksonville" natRank="34">
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
 		<city>Jacksonville</city>
@@ -1520,6 +1549,8 @@
 		<expect2years>4.60</expect2years>
 		<overall>4.40</overall>
 	</firm>
+</city>
+<city cityName="Kansas City" natRank="1">
 	<firm>
 		<firmName>Shook, Hardy &amp; Bacon</firmName>
 		<city>Kansas City</city>
@@ -1540,6 +1571,8 @@
 		<expect2years>4.57</expect2years>
 		<overall>4.71</overall>
 	</firm>
+</city>
+<city cityName="Lawrenceville" natRank="38">
 	<firm>
 		<firmName>Fox Rothschild</firmName>
 		<city>Lawrenceville</city>
@@ -1560,6 +1593,8 @@
 		<expect2years>3.60</expect2years>
 		<overall>4.00</overall>
 	</firm>
+</city>
+<city cityName="Los Angeles" natRank="13">
 	<firm>
 		<firmName>Paul Hastings</firmName>
 		<city>Los Angeles</city>
@@ -1940,6 +1975,8 @@
 		<expect2years>2.57</expect2years>
 		<overall>3.29</overall>
 	</firm>
+</city>
+<city cityName="Louisville" natRank="39">
 	<firm>
 		<firmName>Stites &amp; Harbison</firmName>
 		<city>Louisville</city>
@@ -1960,6 +1997,8 @@
 		<expect2years>3.67</expect2years>
 		<overall>4.11</overall>
 	</firm>
+</city>
+<city cityName="Miami" natRank="25">
 	<firm>
 		<firmName>DLA Piper</firmName>
 		<city>Miami</city>
@@ -2040,6 +2079,8 @@
 		<expect2years>3.63</expect2years>
 		<overall>3.88</overall>
 	</firm>
+</city>
+<city cityName="Milwaukee" natRank="30">
 	<firm>
 		<firmName>Foley &amp; Lardner</firmName>
 		<city>Milwaukee</city>
@@ -2060,6 +2101,8 @@
 		<expect2years>4.08</expect2years>
 		<overall>4.17</overall>
 	</firm>
+</city>
+<city cityName="Minneapolis" natRank="33">
 	<firm>
 		<firmName>Fish &amp; Richardson</firmName>
 		<city>Minneapolis</city>
@@ -2160,6 +2203,8 @@
 		<expect2years>3.20</expect2years>
 		<overall>3.53</overall>
 	</firm>
+</city>
+<city cityName="Nashville" natRank="42">
 	<firm>
 		<firmName>Stites &amp; Harbison</firmName>
 		<city>Nashville</city>
@@ -2180,6 +2225,8 @@
 		<expect2years>3.40</expect2years>
 		<overall>3.60</overall>
 	</firm>
+</city>
+<city cityName="New York" natRank="32">
 	<firm>
 		<firmName>Paul Hastings</firmName>
 		<city>New York</city>
@@ -3480,6 +3527,8 @@
 		<expect2years>2.17</expect2years>
 		<overall>3.17</overall>
 	</firm>
+</city>
+<city cityName="Newark" natRank="37">
 	<firm>
 		<firmName>Gibbons</firmName>
 		<city>Newark</city>
@@ -3520,6 +3569,8 @@
 		<expect2years>4.00</expect2years>
 		<overall>4.00</overall>
 	</firm>
+</city>
+<city cityName="Orange County" natRank="4">
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
 		<city>Orange County</city>
@@ -3640,6 +3691,8 @@
 		<expect2years>2.71</expect2years>
 		<overall>3.29</overall>
 	</firm>
+</city>
+<city cityName="Philadelphia" natRank="36">
 	<firm>
 		<firmName>Cozen O'Connor</firmName>
 		<city>Philadelphia</city>
@@ -3860,6 +3913,8 @@
 		<expect2years>2.71</expect2years>
 		<overall>3.14</overall>
 	</firm>
+</city>
+<city cityName="Phoenix" natRank="29">
 	<firm>
 		<firmName>Snell &amp; Wilmer</firmName>
 		<city>Phoenix</city>
@@ -3900,6 +3955,8 @@
 		<expect2years>3.00</expect2years>
 		<overall>3.60</overall>
 	</firm>
+</city>
+<city cityName="Pittsburgh" natRank="31">
 	<firm>
 		<firmName>Reed Smith</firmName>
 		<city>Pittsburgh</city>
@@ -3940,6 +3997,8 @@
 		<expect2years>3.90</expect2years>
 		<overall>3.95</overall>
 	</firm>
+</city>
+<city cityName="Portland" natRank="17">
 	<firm>
 		<firmName>Davis Wright Tremaine</firmName>
 		<city>Portland</city>
@@ -3960,6 +4019,8 @@
 		<expect2years>4.00</expect2years>
 		<overall>4.17</overall>
 	</firm>
+</city>
+<city cityName="Princeton" natRank="7">
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
 		<city>Princeton</city>
@@ -3980,6 +4041,8 @@
 		<expect2years>4.20</expect2years>
 		<overall>4.60</overall>
 	</firm>
+</city>
+<city cityName="Rochester" natRank="41">
 	<firm>
 		<firmName>Harter Secrest &amp; Emery</firmName>
 		<city>Rochester</city>
@@ -4000,6 +4063,8 @@
 		<expect2years>3.30</expect2years>
 		<overall>3.70</overall>
 	</firm>
+</city>
+<city cityName="Sacramento" natRank="5">
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
 		<city>Sacramento</city>
@@ -4020,6 +4085,8 @@
 		<expect2years>4.43</expect2years>
 		<overall>4.43</overall>
 	</firm>
+</city>
+<city cityName="San Antonio" natRank="12">
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
 		<city>San Antonio</city>
@@ -4060,6 +4127,8 @@
 		<expect2years>4.67</expect2years>
 		<overall>4.67</overall>
 	</firm>
+</city>
+<city cityName="San Diego Metro" natRank="6">
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
 		<city>San Diego Metro</city>
@@ -4180,6 +4249,8 @@
 		<expect2years>3.57</expect2years>
 		<overall>4.14</overall>
 	</firm>
+</city>
+<city cityName="San Francisco" natRank="21">
 	<firm>
 		<firmName>Gibson, Dunn &amp; Crutcher</firmName>
 		<city>San Francisco</city>
@@ -4480,6 +4551,8 @@
 		<expect2years>3.56</expect2years>
 		<overall>3.78</overall>
 	</firm>
+</city>
+<city cityName="Seattle" natRank="16">
 	<firm>
 		<firmName>Perkins Coie</firmName>
 		<city>Seattle</city>
@@ -4560,6 +4633,8 @@
 		<expect2years>4.44</expect2years>
 		<overall>4.11</overall>
 	</firm>
+</city>
+<city cityName="Silicon Valley" natRank="19">
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
 		<city>Silicon Valley</city>
@@ -4840,6 +4915,8 @@
 		<expect2years>3.43</expect2years>
 		<overall>3.57</overall>
 	</firm>
+</city>
+<city cityName="St. Louis" natRank="20">
 	<firm>
 		<firmName>Thompson Coburn</firmName>
 		<city>St. Louis</city>
@@ -4860,6 +4937,8 @@
 		<expect2years>4.15</expect2years>
 		<overall>4.08</overall>
 	</firm>
+</city>
+<city cityName="Tampa" natRank="22">
 	<firm>
 		<firmName>Carlton Fields</firmName>
 		<city>Tampa</city>
@@ -4880,6 +4959,8 @@
 		<expect2years>4.20</expect2years>
 		<overall>4.20</overall>
 	</firm>
+</city>
+<city cityName="Washington Metro" natRank="28">
 	<firm>
 		<firmName>Ropes &amp; Gray</firmName>
 		<city>Washington Metro</city>
@@ -5900,6 +5981,8 @@
 		<expect2years>3.11</expect2years>
 		<overall>3.33</overall>
 	</firm>
+</city>
+<city cityName="Wilmington" natRank="26">
 	<firm>
 		<firmName>Young Conaway Stargatt &amp; Taylor</firmName>
 		<city>Wilmington</city>
