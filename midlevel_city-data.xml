@@ -1,5 +1,5 @@
 <chartdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<city cityName="Albuquerque" natRank="40">
+    <city cityName="Albuquerque" natRank="40">
 	<firm>
 		<firmName>Rodey, Dickason, Sloan, Akin &amp; Robb</firmName>
 		<city>Albuquerque</city>
@@ -20,8 +20,8 @@
 		<expect2years>3.60</expect2years>
 		<overall>3.80</overall>
 	</firm>
-</city>
-<city cityName="Armonk" natRank="10">
+    </city>
+     <city cityName="Armonk" natRank="10">
 	<firm>
 		<firmName>Boies, Schiller &amp; Flexner</firmName>
 		<city>Armonk</city>
