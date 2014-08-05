@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<cities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<chartdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <city cityName="Albuquerque" natRank="40">
 	<firm>
 		<firmName>Rodey, Dickason, Sloan, Akin &amp; Robb</firmName>
@@ -6004,4 +6003,4 @@
 		<overall>4.55</overall>
 	</firm>
 </city>
-</cities>
+</chartdata>
