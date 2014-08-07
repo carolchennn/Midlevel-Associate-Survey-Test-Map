@@ -210,10 +210,10 @@ function buildMap(xml, map){
 			//window.location.href = url + '#midlevel+associate_survey-page_marker';
 			location.hash = 'midlevel+associate_survey-page_marker';
                 	initTable(cityName);
+		});
 			
 		i++;
 		incr++;
-	});
 	});
 };//end buildMap
 
