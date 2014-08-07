@@ -214,6 +214,7 @@ function buildMap(xml, map){
 		i++;
 		incr++;
 	});
+	});
 };//end buildMap
 
 function animateMarker(marker, d){
