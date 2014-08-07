@@ -164,7 +164,7 @@ function buildMap(xml, map){
 				
 			//position tooltip
 			tooltipX = x; 
-			tooltipY = y - (30);
+			tooltipY = y + 30;
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
@@ -175,8 +175,8 @@ function buildMap(xml, map){
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'6px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
 				
 			//position tooltip
-			tooltipX = x - 5; 
-			tooltipY = y - 2;
+			tooltipX = x; 
+			tooltipY = y - (-20);
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
@@ -185,8 +185,11 @@ function buildMap(xml, map){
 		}else if(x >= 122 && y >= 111){
 			//set bg images
 		$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'6px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
-				
+		
 			//position tooltip
+			tooltipX = x - 5; 
+			tooltipY = y - 2;
+			
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
 		}
