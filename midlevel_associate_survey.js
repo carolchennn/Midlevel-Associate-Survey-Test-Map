@@ -209,43 +209,7 @@ function buildMap(xml, map){
 		$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-marker img').click(function(){
 			//window.location.href = url + '#midlevel+associate_survey-page_marker';
 			location.hash = 'midlevel+associate_survey-page_marker';
-			
-			//if city is New Jersey - change click functionality
-			if(cityName == "NEW JERSEY"){
-				map = 2;
-		
-				//remove the pop-up if displayed
-				$('#midlevel_associate_survey-answers_container').css('display', 'none');
-		
-				//clear content of map2
-				$('#midlevel_associate_survey-map2_container').html('<div id="map2_0"></div><div id="midlevel_associate_survey-map2_close" class="floatR"><img src="images/map2_close.png" width="98" height="15" alt="close" title="close" /></div><div class="clear"></div>');
-		
-				//display click block
-				$('#midlevel_associate_survey-click_block').css('display', 'block');
-				$('#midlevel_associate_survey-click_block').css('cursor', 'pointer');
-		
-				//animate map2
-				$('#midlevel_associate_survey-map2_img').css('visibility', 'visible');
-				$('#midlevel_associate_survey-map2_img').animate({'width':'503px', 'height':'436px', 'top':'0px', 'right':'10px', 'opacity': 1.0 },{queue:false, duration:1000, easing:"circEaseOut", complete: function(){
-					$(this).css('visibility', 'hidden');
-			
-					$('#midlevel_associate_survey-map2_container').css('display', 'block');
-			
-					//display map2 close
-					$('#midlevel_associate_survey-map2_close').css('display', 'block');
-		
-					//map2 close click
-					$('#midlevel_associate_survey-map2_close').click(function(){
-						closeMap2();
-					});
-		
-					buildMap(xml2, 2);
-				}});
-			}else{
-				//init/build table
-				initTable(cityName);
-			}
-		});	
+                	initTable(cityName);
 			
 		i++;
 		incr++;
@@ -341,33 +305,6 @@ function buildTable(xml, cityName){
 	});
 };//end buildTable
 
-function buildSalaryTable(cityname){
-	//clear data
-	$('#midlevel_associate_survey-salary_table-container').html('');
-	
-	//get the xml(based on what map currently on)
-	$.get('midlevel_city-map'+map+'.xml', function(data){
-		$(data).find('city').each(function(){
-			var city = $(this).attr('cityName').toUpperCase();
-			
-			if(city == cityname){
-				var third = $(this).find('thirdyearSal').text();
-				var fourth = $(this).find('fourthyearSal').text();
-				var fifth = $(this).find('fifthyearSal').text();
-				var overall = $(this).find('avgSal').text();
-				
-				if(third == 'N/A' && fourth == 'N/A' && fifth == 'N/A' && overall == 'N/A'){
-					$('#midlevel_associate_survey-salary_table-container').css('display', 'none');
-				}else{
-					$('#midlevel_associate_survey-salary_table-container').css('display', 'block');
-				}
-				
-				$('#midlevel_associate_survey-salary_table-container').html('<table cellspacing="0" cellpadding="0" border="0" style="margin:15px 0;"><tr><td style="padding:5px 10px; text-align:right; font-weight:bold; border-right:1px dotted #c2beac;" rowspan="2">Average<br>Salary</td><td style="padding:5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac; border-right:1px dotted #c2beac;">3rd Year</td><td style="padding:5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac; border-right:1px dotted #c2beac;">4th Year</td><td style="padding:5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac; border-right:1px dotted #c2beac;">5th Year</td><td style="padding:5px 0px 5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac;">Overall</td></tr><tr><td style="padding:5px 10px; text-align:right; font-weight:normal; border-right:1px dotted #c2beac;">'+third+'</td><td style="padding:5px 10px; text-align:right; font-weight:normal; border-right:1px dotted #c2beac;">'+fourth+'</td><td style="padding:5px 10px; text-align:right; font-weight:normal; border-right:1px dotted #c2beac;">'+fifth+'</td><td style="padding:5px 0 5px 10px; text-align:right; font-weight:normal;">'+overall+'</td></tr></table>');
-			}
-		});
-	});
-	
-};//end buildSalaryTable
 
 function initNav(xml){
 	var backgroundcolor;
