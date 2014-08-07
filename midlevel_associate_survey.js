@@ -164,7 +164,7 @@ function buildMap(xml, map){
 				
 			//position tooltip
 			tooltipX = x - 5; 
-			tooltipY = y - (-5);
+			tooltipY = y + 3;
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
@@ -176,7 +176,7 @@ function buildMap(xml, map){
 				
 			//position tooltip
 			tooltipX = x - 35; 
-			tooltipY = y - (-12);
+			tooltipY = y - (-5);
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
