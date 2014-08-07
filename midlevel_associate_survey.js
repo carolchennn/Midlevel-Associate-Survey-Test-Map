@@ -164,6 +164,7 @@ function buildMap(xml, map){
 				
 			//position tooltip
 			tooltipX = x - 5; 
+			tooltipY = y - (-10);
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
