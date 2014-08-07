@@ -163,7 +163,7 @@ function buildMap(xml, map){
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'6px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
 				
 			//position tooltip
-			tooltipX = x - 25; 
+			tooltipX = x - 5; 
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
