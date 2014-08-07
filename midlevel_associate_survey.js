@@ -160,9 +160,7 @@ function buildMap(xml, map){
 			
 		if(x <= 219 && y >= 111){
 			//set bg images
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_top').css({'width':'180px', 'height':'17px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_left_top.png)', 'background-repeat':'no-repeat'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_left_mid.png)', 'background-repeat':'repeat-y', 'padding':'0 20px 0 20px'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_bot').css({'width':'180px', 'height':'45px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_left_bot.png)', 'background-repeat':'no-repeat'});
+			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'4px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
 				
 			//position tooltip
 			tooltipX = x - 35; 
