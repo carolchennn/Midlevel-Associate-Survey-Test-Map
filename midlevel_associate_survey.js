@@ -255,8 +255,6 @@ function buildTable(xml, cityName){
 	
 	$('#midlevel_associate_survey-table-cityname').html(cityName);
 	
-	buildSalaryTable(cityName);
-	
 	$(xml).find('city').each(function(){
 		var city = $(this).attr('cityName').toUpperCase();
 		
