@@ -377,7 +377,7 @@ function initNav(xml){
 						$('#midlevel_associate_survey-answers_container').css('display', 'block');
 						$('#midlevel_associate_survey-answers_container').draggable();
 					}
-				})
+				});
 			}
 		});
 		$('#midlevel_associate_survey-answers-cityname').html(cityname);
