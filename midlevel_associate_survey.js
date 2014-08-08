@@ -326,7 +326,6 @@ function initNav(xml){
 		$('#midlevel_associate_survey-answers-firmname').html(firmname);
 		$('#midlevel_associate_survey-answers-firmname').css('text-transform', 'uppercase');
 		
-		$('#midlevel_associate_survey-answers-cityname').html(cityname);
 		
 		//clear the data
 		$('#midlevel_associate_survey-interesting').html('');
@@ -381,6 +380,7 @@ function initNav(xml){
 				})
 			}
 		});
+		$('#midlevel_associate_survey-answers-cityname').html(cityname);
 	});
 	
 	//close
