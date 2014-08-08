@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <chartdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <city cityName="Phoenix" natRank="2">
@@ -645,6 +646,174 @@ This XML file does not appear to have any style information associated with it. 
 <expect2years>2.80</expect2years>
 <overall>3.60</overall>
 </firm>
+=======
+<chartdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <city cityName="Albuquerque" natRank="40">
+	<firm>
+		<firmName>Rodey, Dickason, Sloan, Akin &amp; Robb</firmName>
+		<city>Albuquerque</city>
+		<cityAvgScore>3.617</cityAvgScore>
+		<firmRank>1</firmRank>
+		<firmScore>3.617</firmScore>
+		<respondents>5</respondents>
+		<interestingWork>3.80</interestingWork>
+		<satisfyingWork>3.40</satisfyingWork>
+		<benefits>3.40</benefits>
+		<associateRelations>3.40</associateRelations>
+		<partnerRelations>3.40</partnerRelations>
+		<trainingGuidance>4.00</trainingGuidance>
+		<managementOpenness>3.40</managementOpenness>
+		<communication>4.00</communication>
+		<billables>4.00</billables>
+		<attitude>3.20</attitude>
+		<expect2years>3.60</expect2years>
+		<overall>3.80</overall>
+	</firm>
+    </city>
+    <city cityName="Armonk" natRank="10">
+	<firm>
+		<firmName>Boies, Schiller &amp; Flexner</firmName>
+		<city>Armonk</city>
+		<cityAvgScore>4.286</cityAvgScore>
+		<firmRank>1</firmRank>
+		<firmScore>4.286</firmScore>
+		<respondents>7</respondents>
+		<interestingWork>4.71</interestingWork>
+		<satisfyingWork>4.71</satisfyingWork>
+		<benefits>4.86</benefits>
+		<associateRelations>4.43</associateRelations>
+		<partnerRelations>4.86</partnerRelations>
+		<trainingGuidance>3.43</trainingGuidance>
+		<managementOpenness>3.43</managementOpenness>
+		<communication>3.71</communication>
+		<billables>4.29</billables>
+		<attitude>3.86</attitude>
+		<expect2years>4.43</expect2years>
+		<overall>4.71</overall>
+	</firm>
+     </city>
+<city cityName="Atlanta" natRank="14">
+	<firm>
+		<firmName>Paul Hastings</firmName>
+		<city>Atlanta</city>
+		<cityAvgScore>4.220</cityAvgScore>
+		<firmRank>1</firmRank>
+		<firmScore>4.917</firmScore>
+		<respondents>5</respondents>
+		<interestingWork>4.80</interestingWork>
+		<satisfyingWork>4.80</satisfyingWork>
+		<benefits>4.80</benefits>
+		<associateRelations>5.00</associateRelations>
+		<partnerRelations>5.00</partnerRelations>
+		<trainingGuidance>5.00</trainingGuidance>
+		<managementOpenness>5.00</managementOpenness>
+		<communication>5.00</communication>
+		<billables>4.80</billables>
+		<attitude>5.00</attitude>
+		<expect2years>4.80</expect2years>
+		<overall>5.00</overall>
+	</firm>
+	<firm>
+		<firmName>Alston &amp; Bird</firmName>
+		<city>Atlanta</city>
+		<cityAvgScore>4.220</cityAvgScore>
+		<firmRank>2</firmRank>
+		<firmScore>4.341</firmScore>
+		<respondents>24</respondents>
+		<interestingWork>4.38</interestingWork>
+		<satisfyingWork>4.21</satisfyingWork>
+		<benefits>4.00</benefits>
+		<associateRelations>4.74</associateRelations>
+		<partnerRelations>4.33</partnerRelations>
+		<trainingGuidance>4.21</trainingGuidance>
+		<managementOpenness>4.42</managementOpenness>
+		<communication>4.04</communication>
+		<billables>4.42</billables>
+		<attitude>4.79</attitude>
+		<expect2years>4.13</expect2years>
+		<overall>4.42</overall>
+	</firm>
+	<firm>
+		<firmName>Sutherland Asbill &amp; Brennan</firmName>
+		<city>Atlanta</city>
+		<cityAvgScore>4.220</cityAvgScore>
+		<firmRank>3</firmRank>
+		<firmScore>4.183</firmScore>
+		<respondents>9</respondents>
+		<interestingWork>4.67</interestingWork>
+		<satisfyingWork>4.44</satisfyingWork>
+		<benefits>4.00</benefits>
+		<associateRelations>4.44</associateRelations>
+		<partnerRelations>4.44</partnerRelations>
+		<trainingGuidance>4.44</trainingGuidance>
+		<managementOpenness>3.56</managementOpenness>
+		<communication>3.22</communication>
+		<billables>4.22</billables>
+		<attitude>4.33</attitude>
+		<expect2years>4.00</expect2years>
+		<overall>4.44</overall>
+	</firm>
+	<firm>
+		<firmName>Finnegan, Henderson, Farabow, Garrett &amp; Dunner</firmName>
+		<city>Atlanta</city>
+		<cityAvgScore>4.220</cityAvgScore>
+		<firmRank>4</firmRank>
+		<firmScore>4.164</firmScore>
+		<respondents>7</respondents>
+		<interestingWork>4.57</interestingWork>
+		<satisfyingWork>4.00</satisfyingWork>
+		<benefits>4.86</benefits>
+		<associateRelations>4.43</associateRelations>
+		<partnerRelations>4.00</partnerRelations>
+		<trainingGuidance>4.83</trainingGuidance>
+		<managementOpenness>3.43</managementOpenness>
+		<communication>3.00</communication>
+		<billables>3.57</billables>
+		<attitude>4.71</attitude>
+		<expect2years>4.00</expect2years>
+		<overall>4.57</overall>
+	</firm>
+	<firm>
+		<firmName>Troutman Sanders</firmName>
+		<city>Atlanta</city>
+		<cityAvgScore>4.220</cityAvgScore>
+		<firmRank>5</firmRank>
+		<firmScore>4.125</firmScore>
+		<respondents>6</respondents>
+		<interestingWork>4.17</interestingWork>
+		<satisfyingWork>4.33</satisfyingWork>
+		<benefits>3.83</benefits>
+		<associateRelations>4.33</associateRelations>
+		<partnerRelations>4.17</partnerRelations>
+		<trainingGuidance>3.83</trainingGuidance>
+		<managementOpenness>3.83</managementOpenness>
+		<communication>3.17</communication>
+		<billables>4.67</billables>
+		<attitude>4.50</attitude>
+		<expect2years>4.17</expect2years>
+		<overall>4.50</overall>
+	</firm>
+	<firm>
+		<firmName>King &amp; Spalding</firmName>
+		<city>Atlanta</city>
+		<cityAvgScore>4.220</cityAvgScore>
+		<firmRank>6</firmRank>
+		<firmScore>3.587</firmScore>
+		<respondents>18</respondents>
+		<interestingWork>4.44</interestingWork>
+		<satisfyingWork>4.06</satisfyingWork>
+		<benefits>3.44</benefits>
+		<associateRelations>4.00</associateRelations>
+		<partnerRelations>3.67</partnerRelations>
+		<trainingGuidance>3.50</trainingGuidance>
+		<managementOpenness>3.00</managementOpenness>
+		<communication>3.00</communication>
+		<billables>3.28</billables>
+		<attitude>3.11</attitude>
+		<expect2years>3.71</expect2years>
+		<overall>3.83</overall>
+	</firm>
+>>>>>>> origin/gh-pages
 </city>
 <city cityName="San Diego" natRank="4">
 <firm>
@@ -6542,4 +6711,30 @@ This XML file does not appear to have any style information associated with it. 
 <overall>3.38</overall>
 </firm>
 </city>
+<<<<<<< HEAD
 </chartdata>
+=======
+<city cityName="Wilmington" natRank="26">
+	<firm>
+		<firmName>Young Conaway Stargatt &amp; Taylor</firmName>
+		<city>Wilmington</city>
+		<cityAvgScore>4.092</cityAvgScore>
+		<firmRank>1</firmRank>
+		<firmScore>4.092</firmScore>
+		<respondents>11</respondents>
+		<interestingWork>4.64</interestingWork>
+		<satisfyingWork>4.09</satisfyingWork>
+		<benefits>3.82</benefits>
+		<associateRelations>4.45</associateRelations>
+		<partnerRelations>4.45</partnerRelations>
+		<trainingGuidance>3.82</trainingGuidance>
+		<managementOpenness>3.82</managementOpenness>
+		<communication>2.82</communication>
+		<billables>4.55</billables>
+		<attitude>4.00</attitude>
+		<expect2years>4.09</expect2years>
+		<overall>4.55</overall>
+	</firm>
+</city>
+</chartdata>
+>>>>>>> origin/gh-pages

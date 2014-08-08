@@ -160,12 +160,11 @@ function buildMap(xml, map){
 			
 		if(x <= 219 && y >= 111){
 			//set bg images
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_top').css({'width':'180px', 'height':'17px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_left_top.png)', 'background-repeat':'no-repeat'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_left_mid.png)', 'background-repeat':'repeat-y', 'padding':'0 20px 0 20px'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_bot').css({'width':'180px', 'height':'45px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_left_bot.png)', 'background-repeat':'no-repeat'});
+			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'6px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
 				
 			//position tooltip
-			tooltipX = x - 35; 
+			tooltipX = x - 5;  
+			tooltipY = y + 25;
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
@@ -173,13 +172,11 @@ function buildMap(xml, map){
 		//if tooltip is too far top
 		}else if(y <= 110 || map == 2){
 			//set bg images
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_top').css({'width':'180px', 'height':'45px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_top_bot.png)', 'background-repeat':'no-repeat'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_top_mid.png)', 'background-repeat':'repeat-y', 'padding':'0 20px 0 20px'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_bot').css({'width':'180px', 'height':'17px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_top_top.png)', 'background-repeat':'no-repeat'});
+			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'6px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
 				
 			//position tooltip
-			tooltipX = x - 35; 
-			tooltipY = y - (-12);
+			tooltipX = x - 5;  
+			tooltipY = y + 25;
 				
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
@@ -187,20 +184,14 @@ function buildMap(xml, map){
 		//standard tooltip styles
 		}else if(x >= 122 && y >= 111){
 			//set bg images
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_top').css({'width':'180px', 'height':'17px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_top.png)', 'background-repeat':'no-repeat'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_mid.png)', 'background-repeat':'repeat-y', 'padding':'0 20px 0 20px'});
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_bot').css({'width':'180px', 'height':'45px', 'background-image':'url(/image/tal/midlevel_associates/2012/tooltip_bot.png)', 'background-repeat':'no-repeat'});
-				
+		$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip_mid').css({'width':'140px', 'height':'auto',  'padding':'6px', 'border-radius':'1px', 'background-color':'#FFF', 'box-shadow':'1px 1px 5px #CCC', 'font-size':'12px', 'border':'1px solid #CCC'});
+		
 			//position tooltip
+			tooltipX = x - 5; 
+			tooltipY = y + 25;
+			
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('left', tooltipX+'px');
 			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-tooltip').css('top', tooltipY+'px');
-		}
-			
-		//if city is New Jersey - change tooltip text(click functionality is in marker.click)
-		if(cityName == "NEW JERSEY"){
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-cityScore').html('Click map marker for more details');
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-cityRank').css('display', 'none');
-			$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-clickformore').css('display', 'none');
 		}
 			
 		//hover for markers
@@ -218,43 +209,8 @@ function buildMap(xml, map){
 		$('#midlevel_associate_survey-city_map'+map+'_'+i+' .midlevel_associate_survey-marker img').click(function(){
 			//window.location.href = url + '#midlevel+associate_survey-page_marker';
 			location.hash = 'midlevel+associate_survey-page_marker';
-			
-			//if city is New Jersey - change click functionality
-			if(cityName == "NEW JERSEY"){
-				map = 2;
-		
-				//remove the pop-up if displayed
-				$('#midlevel_associate_survey-answers_container').css('display', 'none');
-		
-				//clear content of map2
-				$('#midlevel_associate_survey-map2_container').html('<div id="map2_0"></div><div id="midlevel_associate_survey-map2_close" class="floatR"><img src="images/map2_close.png" width="98" height="15" alt="close" title="close" /></div><div class="clear"></div>');
-		
-				//display click block
-				$('#midlevel_associate_survey-click_block').css('display', 'block');
-				$('#midlevel_associate_survey-click_block').css('cursor', 'pointer');
-		
-				//animate map2
-				$('#midlevel_associate_survey-map2_img').css('visibility', 'visible');
-				$('#midlevel_associate_survey-map2_img').animate({'width':'503px', 'height':'436px', 'top':'0px', 'right':'10px', 'opacity': 1.0 },{queue:false, duration:1000, easing:"circEaseOut", complete: function(){
-					$(this).css('visibility', 'hidden');
-			
-					$('#midlevel_associate_survey-map2_container').css('display', 'block');
-			
-					//display map2 close
-					$('#midlevel_associate_survey-map2_close').css('display', 'block');
-		
-					//map2 close click
-					$('#midlevel_associate_survey-map2_close').click(function(){
-						closeMap2();
-					});
-		
-					buildMap(xml2, 2);
-				}});
-			}else{
-				//init/build table
-				initTable(cityName);
-			}
-		});	
+                	initTable(cityName);
+		});
 			
 		i++;
 		incr++;
@@ -286,7 +242,7 @@ function animateMarker(marker, d){
 function initTable(cityName){
 	$('#midlevel_associate_survey-table-header').css('display', 'block');
 	
-	$('#midlevel_associate_survey-table_container').html('<table cellspacing="0" cellpadding="0" border="0" class="tablescroll" style="width:730px; margin:0; border:1px solid #c2beac; border-bottom:none; color:#716F4B;"><thead><tr style="background-color:#E0DCCA;"><th width="30" style="padding:10px; border-left:1px solid #c2beac; border-right:1px solid #c2beac; border-top:1px solid #c2beac; width:30px;">Rank</th><th width="495" style="padding:10px; border-right:1px solid #c2beac; border-top:1px solid #c2beac; width:495px;">Firm</th><th width="76" style="padding:10px; border-right:1px solid #c2beac; border-top:1px solid #c2beac; width:76px;">Respondents</th><th width="33" style="padding:10px; width:33px; border-right:1px solid #c2beac; border-top:1px solid #c2beac;">Score</th></tr></thead><tbody><tr style="background-color:#d89898;"><td width="30" style="width:30px;"></td><td width="495" style="width:495px;"></td><td width="76" style="width:76px;"></td><td width="33" style="width:33px;"></td></tr></tbody></table>');
+	$('#midlevel_associate_survey-table_container').html('<table cellspacing="0" cellpadding="0" border="0" class="tablescroll" style="width:730px; margin:0; border:1px solid #CFDBF0; border-bottom:none; color:#4B699F;"><thead><tr style="background-color:#DDE8F0;"><th width="30" style="padding:10px; border-left:1px solid #4B699F; border-right:1px solid #4B699F; border-top:1px solid #4B699F; width:30px;">Rank</th><th width="495" style="padding:10px; border-right:1px solid #4B699F; border-top:1px solid #4B699F; width:495px;">Firm</th><th width="76" style="padding:10px; border-right:1px solid #4B699F; border-top:1px solid #4B699F; width:76px;">Respondents</th><th width="33" style="padding:10px; width:33px; border-right:1px solid #4B699F; border-top:1px solid #4B699F;">Score</th></tr></thead><tbody><tr style="background-color:#4B699F;"><td width="30" style="width:30px;"></td><td width="495" style="width:495px;"></td><td width="76" style="width:76px;"></td><td width="33" style="width:33px;"></td></tr></tbody></table>');
 	
 	$.get('midlevel_city-data.xml', function(data){
           buildTable(data, cityName);
@@ -298,8 +254,6 @@ function buildTable(xml, cityName){
 	var maxNum;
 	
 	$('#midlevel_associate_survey-table-cityname').html(cityName);
-	
-	buildSalaryTable(cityName);
 	
 	$(xml).find('city').each(function(){
 		var city = $(this).attr('cityName').toUpperCase();
@@ -350,33 +304,6 @@ function buildTable(xml, cityName){
 	});
 };//end buildTable
 
-function buildSalaryTable(cityname){
-	//clear data
-	$('#midlevel_associate_survey-salary_table-container').html('');
-	
-	//get the xml(based on what map currently on)
-	$.get('midlevel_city-map'+map+'.xml', function(data){
-		$(data).find('city').each(function(){
-			var city = $(this).attr('cityName').toUpperCase();
-			
-			if(city == cityname){
-				var third = $(this).find('thirdyearSal').text();
-				var fourth = $(this).find('fourthyearSal').text();
-				var fifth = $(this).find('fifthyearSal').text();
-				var overall = $(this).find('avgSal').text();
-				
-				if(third == 'N/A' && fourth == 'N/A' && fifth == 'N/A' && overall == 'N/A'){
-					$('#midlevel_associate_survey-salary_table-container').css('display', 'none');
-				}else{
-					$('#midlevel_associate_survey-salary_table-container').css('display', 'block');
-				}
-				
-				$('#midlevel_associate_survey-salary_table-container').html('<table cellspacing="0" cellpadding="0" border="0" style="margin:15px 0;"><tr><td style="padding:5px 10px; text-align:right; font-weight:bold; border-right:1px dotted #c2beac;" rowspan="2">Average<br>Salary</td><td style="padding:5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac; border-right:1px dotted #c2beac;">3rd Year</td><td style="padding:5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac; border-right:1px dotted #c2beac;">4th Year</td><td style="padding:5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac; border-right:1px dotted #c2beac;">5th Year</td><td style="padding:5px 0px 5px 10px; text-align:right; font-weight:bold; border-bottom:1px dotted #c2beac;">Overall</td></tr><tr><td style="padding:5px 10px; text-align:right; font-weight:normal; border-right:1px dotted #c2beac;">'+third+'</td><td style="padding:5px 10px; text-align:right; font-weight:normal; border-right:1px dotted #c2beac;">'+fourth+'</td><td style="padding:5px 10px; text-align:right; font-weight:normal; border-right:1px dotted #c2beac;">'+fifth+'</td><td style="padding:5px 0 5px 10px; text-align:right; font-weight:normal;">'+overall+'</td></tr></table>');
-			}
-		});
-	});
-	
-};//end buildSalaryTable
 
 function initNav(xml){
 	var backgroundcolor;
