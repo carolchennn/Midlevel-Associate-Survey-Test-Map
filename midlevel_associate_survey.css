@@ -2,7 +2,7 @@
 #chartIA tr:hover td { color:#fff !important; }
 #midlevel_associate_survey-salary_table-container tr:hover td { color:#8F8F8F !important; }
 
-#midlevel_associate_survey-container { width:730px; height:auto; font-family:helvetica, arial; font-size:9pt; color:#4B699F; text-align:left; position:relative; margin-left:30px; }
+#midlevel_associate_survey-container { width:730px; height:auto; font-family:helvetica, arial; font-size:9pt; color:#000000; text-align:left; position:relative; margin-left:30px; }
 
 /*maps*/
 #midlevel_associate_survey-map1_container { width:730px; height:436px; background-image:url('images/map_bg.png'); background-repeat:no-repeat; }
