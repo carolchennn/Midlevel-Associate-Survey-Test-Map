@@ -342,7 +342,7 @@ function initNav(xml){
 		$('#midlevel_associate_survey-overall').html('');
 		
 		$(xml).find('city').each(function(){
-			if($(this).attr('cityName').toUpperCase() == city){
+			if($(this).attr('cityname').toUpperCase() == city){
 				$(this).find('firm').each(function(){
 					if($(this).find('firmName').text() == firmname){
 						//get the data
