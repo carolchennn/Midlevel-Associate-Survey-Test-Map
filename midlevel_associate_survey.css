@@ -17,7 +17,7 @@
 #midlevel_associate_survey-click_block { width:730px; height:436px; position:absolute; background-image:url('images/click_block.png'); background-repeat:no-repeat; z-index:5; display:none; }
 
 /*table*/
-#midlevel_associate_survey-table-header {font-weight:bold; color:#4B699F; display:none; }
+#midlevel_associate_survey-table-header {font-weight:bold; color:#000000; display:none; }
 #midlevel_associate_survey-table-cityname { font-size:11pt; padding:15px 0px 10px 0; }
 #midlevel_associate_survey-table-rank { font-size:10pt; } 
 #midlevel_associate_survey-score, #midlevel_associate_survey-rank { font-weight:normal; }
