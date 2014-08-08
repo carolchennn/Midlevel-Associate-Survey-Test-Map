@@ -3,7 +3,7 @@
 <city cityName="Albuquerque" natRank="40">
 	<firm>
 		<firmName>Rodey, Dickason, Sloan, Akin &amp; Robb</firmName>
-		<cityname>Albuquerque</city>
+		<cityname>Albuquerque</cityname>
 		<cityAvgScore>3.617</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>3.617</firmScore>
@@ -25,7 +25,7 @@
 <city cityName="Armonk" natRank="10">
 	<firm>
 		<firmName>Boies, Schiller &amp; Flexner</firmName>
-		<cityname>Armonk</city>
+		<cityname>Armonk</cityname>
 		<cityAvgScore>4.286</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.286</firmScore>
@@ -47,7 +47,7 @@
 <city cityName="Atlanta" natRank="14">
 	<firm>
 		<firmName>Paul Hastings</firmName>
-		<cityname>Atlanta</city>
+		<cityname>Atlanta</cityname>
 		<cityAvgScore>4.220</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.917</firmScore>
@@ -67,7 +67,7 @@
 	</firm>
 	<firm>
 		<firmName>Alston &amp; Bird</firmName>
-		<cityname>Atlanta</city>
+		<cityname>Atlanta</cityname>
 		<cityAvgScore>4.220</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.341</firmScore>
@@ -87,7 +87,7 @@
 	</firm>
 	<firm>
 		<firmName>Sutherland Asbill &amp; Brennan</firmName>
-		<cityname>Atlanta</city>
+		<cityname>Atlanta</cityname>
 		<cityAvgScore>4.220</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.183</firmScore>
@@ -107,7 +107,7 @@
 	</firm>
 	<firm>
 		<firmName>Finnegan, Henderson, Farabow, Garrett &amp; Dunner</firmName>
-		<cityname>Atlanta</city>
+		<cityname>Atlanta</cityname>
 		<cityAvgScore>4.220</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.164</firmScore>
@@ -127,7 +127,7 @@
 	</firm>
 	<firm>
 		<firmName>Troutman Sanders</firmName>
-		<cityname>Atlanta</city>
+		<cityname>Atlanta</cityname>
 		<cityAvgScore>4.220</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.125</firmScore>
@@ -147,7 +147,7 @@
 	</firm>
 	<firm>
 		<firmName>King &amp; Spalding</firmName>
-		<cityname>Atlanta</city>
+		<cityname>Atlanta</cityname>
 		<cityAvgScore>4.220</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>3.587</firmScore>
@@ -169,7 +169,7 @@
 <city cityName="Austin" natRank="15">
 	<firm>
 		<firmName>Vinson &amp; Elkins</firmName>
-		<cityname>Austin</city>
+		<cityname>Austin</cityname>
 		<cityAvgScore>4.200</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.285</firmScore>
@@ -189,7 +189,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilson Sonsini Goodrich &amp; Rosati</firmName>
-		<cityname>Austin</city>
+		<cityname>Austin</cityname>
 		<cityAvgScore>4.200</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.118</firmScore>
@@ -211,7 +211,7 @@
 <city cityName="Baltimore" natRank="24">
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>Baltimore</city>
+		<cityname>Baltimore</cityname>
 		<cityAvgScore>4.122</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.717</firmScore>
@@ -231,7 +231,7 @@
 	</firm>
 	<firm>
 		<firmName>Miles &amp; Stockbridge</firmName>
-		<cityname>Baltimore</city>
+		<cityname>Baltimore</cityname>
 		<cityAvgScore>4.122</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.092</firmScore>
@@ -251,7 +251,7 @@
 	</firm>
 	<firm>
 		<firmName>Saul Ewing</firmName>
-		<cityname>Baltimore</city>
+		<cityname>Baltimore</cityname>
 		<cityAvgScore>4.122</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>3.558</firmScore>
@@ -273,7 +273,7 @@
 <city cityName="Boston" natRank="11">
 	<firm>
 		<firmName>Nutter McClennen &amp; Fish</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.799</firmScore>
@@ -293,7 +293,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.617</firmScore>
@@ -313,7 +313,7 @@
 	</firm>
 	<firm>
 		<firmName>Foley &amp; Lardner</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.513</firmScore>
@@ -333,7 +333,7 @@
 	</firm>
 	<firm>
 		<firmName>Goulston &amp; Storrs</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.480</firmScore>
@@ -353,7 +353,7 @@
 	</firm>
 	<firm>
 		<firmName>Foley Hoag</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.470</firmScore>
@@ -373,7 +373,7 @@
 	</firm>
 	<firm>
 		<firmName>Ropes &amp; Gray</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.448</firmScore>
@@ -393,7 +393,7 @@
 	</firm>
 	<firm>
 		<firmName>Proskauer Rose</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.261</firmScore>
@@ -413,7 +413,7 @@
 	</firm>
 	<firm>
 		<firmName>Sullivan &amp; Worcester</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.217</firmScore>
@@ -433,7 +433,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.117</firmScore>
@@ -453,7 +453,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilmer Cutler Pickering Hale and Dorr</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.105</firmScore>
@@ -473,7 +473,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>4.083</firmScore>
@@ -493,7 +493,7 @@
 	</firm>
 	<firm>
 		<firmName>Goodwin Procter</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>3.878</firmScore>
@@ -513,7 +513,7 @@
 	</firm>
 	<firm>
 		<firmName>Choate Hall &amp; Stewart</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>3.858</firmScore>
@@ -533,7 +533,7 @@
 	</firm>
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>3.821</firmScore>
@@ -553,7 +553,7 @@
 	</firm>
 	<firm>
 		<firmName>Mintz, Levin, Cohn, Ferris, Glovsky and Popeo</firmName>
-		<cityname>Boston</city>
+		<cityname>Boston</cityname>
 		<cityAvgScore>4.230</cityAvgScore>
 		<firmRank>15</firmRank>
 		<firmScore>3.783</firmScore>
@@ -575,7 +575,7 @@
 <city cityName="Charlotte" natRank="3">
 	<firm>
 		<firmName>Robinson Bradshaw &amp; Hinson</firmName>
-		<cityname>Charlotte</city>
+		<cityname>Charlotte</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.358</firmScore>
@@ -597,7 +597,7 @@
 <city cityName="Chicago" natRank="27">
 	<firm>
 		<firmName>Paul Hastings</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.967</firmScore>
@@ -617,7 +617,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.667</firmScore>
@@ -637,7 +637,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.496</firmScore>
@@ -657,7 +657,7 @@
 	</firm>
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.440</firmScore>
@@ -677,7 +677,7 @@
 	</firm>
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.406</firmScore>
@@ -697,7 +697,7 @@
 	</firm>
 	<firm>
 		<firmName>Vedder Price</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.310</firmScore>
@@ -717,7 +717,7 @@
 	</firm>
 	<firm>
 		<firmName>Chapman and Cutler</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.279</firmScore>
@@ -737,7 +737,7 @@
 	</firm>
 	<firm>
 		<firmName>Schiff Hardin</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.267</firmScore>
@@ -757,7 +757,7 @@
 	</firm>
 	<firm>
 		<firmName>Barack Ferrazzano Kirschbaum Perlman &amp; Nagelberg</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.170</firmScore>
@@ -777,7 +777,7 @@
 	</firm>
 	<firm>
 		<firmName>Sidley Austin</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.153</firmScore>
@@ -797,7 +797,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; McKenzie</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>4.100</firmScore>
@@ -817,7 +817,7 @@
 	</firm>
 	<firm>
 		<firmName>Perkins Coie</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>4.098</firmScore>
@@ -837,7 +837,7 @@
 	</firm>
 	<firm>
 		<firmName>Quarles &amp; Brady</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>4.083</firmScore>
@@ -857,7 +857,7 @@
 	</firm>
 	<firm>
 		<firmName>Kirkland &amp; Ellis</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>4.072</firmScore>
@@ -877,7 +877,7 @@
 	</firm>
 	<firm>
 		<firmName>Neal, Gerber &amp; Eisenberg</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>15</firmRank>
 		<firmScore>4.003</firmScore>
@@ -897,7 +897,7 @@
 	</firm>
 	<firm>
 		<firmName>McDermott Will &amp; Emery</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>16</firmRank>
 		<firmScore>3.964</firmScore>
@@ -917,7 +917,7 @@
 	</firm>
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>17</firmRank>
 		<firmScore>3.929</firmScore>
@@ -937,7 +937,7 @@
 	</firm>
 	<firm>
 		<firmName>Jenner &amp; Block</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>18</firmRank>
 		<firmScore>3.920</firmScore>
@@ -957,7 +957,7 @@
 	</firm>
 	<firm>
 		<firmName>Mayer Brown</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>19</firmRank>
 		<firmScore>3.904</firmScore>
@@ -977,7 +977,7 @@
 	</firm>
 	<firm>
 		<firmName>Katten Muchin Rosenman</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>20</firmRank>
 		<firmScore>3.575</firmScore>
@@ -997,7 +997,7 @@
 	</firm>
 	<firm>
 		<firmName>Drinker Biddle &amp; Reath</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>21</firmRank>
 		<firmScore>3.458</firmScore>
@@ -1017,7 +1017,7 @@
 	</firm>
 	<firm>
 		<firmName>Thompson Coburn</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>22</firmRank>
 		<firmScore>3.439</firmScore>
@@ -1037,7 +1037,7 @@
 	</firm>
 	<firm>
 		<firmName>Winston &amp; Strawn</firmName>
-		<cityname>Chicago</city>
+		<cityname>Chicago</cityname>
 		<cityAvgScore>4.083</cityAvgScore>
 		<firmRank>23</firmRank>
 		<firmScore>3.203</firmScore>
@@ -1059,7 +1059,7 @@
 <city cityName="Cleveland" natRank="2">
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
-		<cityname>Cleveland</city>
+		<cityname>Cleveland</cityname>
 		<cityAvgScore>4.365</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.365</firmScore>
@@ -1081,7 +1081,7 @@
 <city cityName="Columbus" natRank="8">
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
-		<cityname>Columbus</city>
+		<cityname>Columbus</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.333</firmScore>
@@ -1103,7 +1103,7 @@
 <city cityName="Dallas" natRank="9">
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.638</firmScore>
@@ -1123,7 +1123,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.541</firmScore>
@@ -1143,7 +1143,7 @@
 	</firm>
 	<firm>
 		<firmName>Thompson &amp; Knight</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.509</firmScore>
@@ -1163,7 +1163,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; McKenzie</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.133</firmScore>
@@ -1183,7 +1183,7 @@
 	</firm>
 	<firm>
 		<firmName>Vinson &amp; Elkins</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.133</firmScore>
@@ -1203,7 +1203,7 @@
 	</firm>
 	<firm>
 		<firmName>Fish &amp; Richardson</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.033</firmScore>
@@ -1223,7 +1223,7 @@
 	</firm>
 	<firm>
 		<firmName>Haynes and Boone</firmName>
-		<cityname>Dallas</city>
+		<cityname>Dallas</cityname>
 		<cityAvgScore>4.287</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.019</firmScore>
@@ -1245,7 +1245,7 @@
 <city cityName="Denver" natRank="35">
 	<firm>
 		<firmName>Holland &amp; Hart</firmName>
-		<cityname>Denver</city>
+		<cityname>Denver</cityname>
 		<cityAvgScore>3.987</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.394</firmScore>
@@ -1265,7 +1265,7 @@
 	</firm>
 	<firm>
 		<firmName>Perkins Coie</firmName>
-		<cityname>Denver</city>
+		<cityname>Denver</cityname>
 		<cityAvgScore>3.987</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.100</firmScore>
@@ -1285,7 +1285,7 @@
 	</firm>
 	<firm>
 		<firmName>Faegre Baker Daniels</firmName>
-		<cityname>Denver</city>
+		<cityname>Denver</cityname>
 		<cityAvgScore>3.987</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>3.467</firmScore>
@@ -1307,7 +1307,7 @@
 <city cityName="Houston" natRank="23">
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.578</firmScore>
@@ -1327,7 +1327,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.544</firmScore>
@@ -1347,7 +1347,7 @@
 	</firm>
 	<firm>
 		<firmName>Haynes and Boone</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.374</firmScore>
@@ -1367,7 +1367,7 @@
 	</firm>
 	<firm>
 		<firmName>Winstead</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.263</firmScore>
@@ -1387,7 +1387,7 @@
 	</firm>
 	<firm>
 		<firmName>Vinson &amp; Elkins</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.148</firmScore>
@@ -1407,7 +1407,7 @@
 	</firm>
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.070</firmScore>
@@ -1427,7 +1427,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.046</firmScore>
@@ -1447,7 +1447,7 @@
 	</firm>
 	<firm>
 		<firmName>Sidley Austin</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.017</firmScore>
@@ -1467,7 +1467,7 @@
 	</firm>
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>3.933</firmScore>
@@ -1487,7 +1487,7 @@
 	</firm>
 	<firm>
 		<firmName>King &amp; Spalding</firmName>
-		<cityname>Houston</city>
+		<cityname>Houston</cityname>
 		<cityAvgScore>4.131</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>3.333</firmScore>
@@ -1509,7 +1509,7 @@
 <city cityName="Indianapolis" natRank="18">
 	<firm>
 		<firmName>Faegre Baker Daniels</firmName>
-		<cityname>Indianapolis</city>
+		<cityname>Indianapolis</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.173</firmScore>
@@ -1531,7 +1531,7 @@
 <city cityName="Jacksonville" natRank="34">
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
-		<cityname>Jacksonville</city>
+		<cityname>Jacksonville</cityname>
 		<cityAvgScore>4.000</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.000</firmScore>
@@ -1553,7 +1553,7 @@
 <city cityName="Kansas City" natRank="1">
 	<firm>
 		<firmName>Shook, Hardy &amp; Bacon</firmName>
-		<cityname>Kansas City</city>
+		<cityname>Kansas City</cityname>
 		<cityAvgScore>4.381</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.381</firmScore>
@@ -1575,7 +1575,7 @@
 <city cityName="Lawrenceville" natRank="38">
 	<firm>
 		<firmName>Fox Rothschild</firmName>
-		<cityname>Lawrenceville</city>
+		<cityname>Lawrenceville</cityname>
 		<cityAvgScore>3.817</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>3.817</firmScore>
@@ -1597,7 +1597,7 @@
 <city cityName="Los Angeles" natRank="13">
 	<firm>
 		<firmName>Paul Hastings</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.818</firmScore>
@@ -1617,7 +1617,7 @@
 	</firm>
 	<firm>
 		<firmName>O'Melveny &amp; Myers</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.640</firmScore>
@@ -1637,7 +1637,7 @@
 	</firm>
 	<firm>
 		<firmName>Gibson, Dunn &amp; Crutcher</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.568</firmScore>
@@ -1657,7 +1657,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.358</firmScore>
@@ -1677,7 +1677,7 @@
 	</firm>
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.350</firmScore>
@@ -1697,7 +1697,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.325</firmScore>
@@ -1717,7 +1717,7 @@
 	</firm>
 	<firm>
 		<firmName>Manatt, Phelps &amp; Phillips</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.317</firmScore>
@@ -1737,7 +1737,7 @@
 	</firm>
 	<firm>
 		<firmName>Morrison &amp; Foerster</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.281</firmScore>
@@ -1757,7 +1757,7 @@
 	</firm>
 	<firm>
 		<firmName>Kirkland &amp; Ellis</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.273</firmScore>
@@ -1777,7 +1777,7 @@
 	</firm>
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.263</firmScore>
@@ -1797,7 +1797,7 @@
 	</firm>
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>4.250</firmScore>
@@ -1817,7 +1817,7 @@
 	</firm>
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>4.207</firmScore>
@@ -1837,7 +1837,7 @@
 	</firm>
 	<firm>
 		<firmName>Munger, Tolles &amp; Olson</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>4.202</firmScore>
@@ -1857,7 +1857,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>4.193</firmScore>
@@ -1877,7 +1877,7 @@
 	</firm>
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>15</firmRank>
 		<firmScore>4.156</firmScore>
@@ -1897,7 +1897,7 @@
 	</firm>
 	<firm>
 		<firmName>Irell &amp; Manella</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>16</firmRank>
 		<firmScore>4.030</firmScore>
@@ -1917,7 +1917,7 @@
 	</firm>
 	<firm>
 		<firmName>Sidley Austin</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>17</firmRank>
 		<firmScore>4.012</firmScore>
@@ -1937,7 +1937,7 @@
 	</firm>
 	<firm>
 		<firmName>Milbank, Tweed, Hadley &amp; McCloy</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>18</firmRank>
 		<firmScore>3.785</firmScore>
@@ -1957,7 +1957,7 @@
 	</firm>
 	<firm>
 		<firmName>Loeb &amp; Loeb</firmName>
-		<cityname>Los Angeles</city>
+		<cityname>Los Angeles</cityname>
 		<cityAvgScore>4.221</cityAvgScore>
 		<firmRank>19</firmRank>
 		<firmScore>3.178</firmScore>
@@ -1979,7 +1979,7 @@
 <city cityName="Louisville" natRank="39">
 	<firm>
 		<firmName>Stites &amp; Harbison</firmName>
-		<cityname>Louisville</city>
+		<cityname>Louisville</cityname>
 		<cityAvgScore>3.704</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>3.704</firmScore>
@@ -2001,7 +2001,7 @@
 <city cityName="Miami" natRank="25">
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>Miami</city>
+		<cityname>Miami</cityname>
 		<cityAvgScore>4.121</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.367</firmScore>
@@ -2021,7 +2021,7 @@
 	</firm>
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
-		<cityname>Miami</city>
+		<cityname>Miami</cityname>
 		<cityAvgScore>4.121</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.192</firmScore>
@@ -2041,7 +2041,7 @@
 	</firm>
 	<firm>
 		<firmName>Carlton Fields</firmName>
-		<cityname>Miami</city>
+		<cityname>Miami</cityname>
 		<cityAvgScore>4.121</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.167</firmScore>
@@ -2061,7 +2061,7 @@
 	</firm>
 	<firm>
 		<firmName>White &amp; Case</firmName>
-		<cityname>Miami</city>
+		<cityname>Miami</cityname>
 		<cityAvgScore>4.121</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>3.763</firmScore>
@@ -2083,7 +2083,7 @@
 <city cityName="Milwaukee" natRank="30">
 	<firm>
 		<firmName>Foley &amp; Lardner</firmName>
-		<cityname>Milwaukee</city>
+		<cityname>Milwaukee</cityname>
 		<cityAvgScore>4.041</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.041</firmScore>
@@ -2105,7 +2105,7 @@
 <city cityName="Minneapolis" natRank="33">
 	<firm>
 		<firmName>Fish &amp; Richardson</firmName>
-		<cityname>Minneapolis</city>
+		<cityname>Minneapolis</cityname>
 		<cityAvgScore>4.001</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.267</firmScore>
@@ -2125,7 +2125,7 @@
 	</firm>
 	<firm>
 		<firmName>Lindquist &amp; Vennum</firmName>
-		<cityname>Minneapolis</city>
+		<cityname>Minneapolis</cityname>
 		<cityAvgScore>4.001</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.233</firmScore>
@@ -2145,7 +2145,7 @@
 	</firm>
 	<firm>
 		<firmName>Dorsey &amp; Whitney</firmName>
-		<cityname>Minneapolis</city>
+		<cityname>Minneapolis</cityname>
 		<cityAvgScore>4.001</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.084</firmScore>
@@ -2165,7 +2165,7 @@
 	</firm>
 	<firm>
 		<firmName>Robins, Kaplan, Miller &amp; Ciresi</firmName>
-		<cityname>Minneapolis</city>
+		<cityname>Minneapolis</cityname>
 		<cityAvgScore>4.001</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>3.982</firmScore>
@@ -2185,7 +2185,7 @@
 	</firm>
 	<firm>
 		<firmName>Faegre Baker Daniels</firmName>
-		<cityname>Minneapolis</city>
+		<cityname>Minneapolis</cityname>
 		<cityAvgScore>4.001</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>3.439</firmScore>
@@ -2207,7 +2207,7 @@
 <city cityName="Nashville" natRank="42">
 	<firm>
 		<firmName>Stites &amp; Harbison</firmName>
-		<cityname>Nashville</city>
+		<cityname>Nashville</cityname>
 		<cityAvgScore>3.433</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>3.433</firmScore>
@@ -2229,7 +2229,7 @@
 <city cityName="New York" natRank="32">
 	<firm>
 		<firmName>Paul Hastings</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.632</firmScore>
@@ -2249,7 +2249,7 @@
 	</firm>
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.604</firmScore>
@@ -2269,7 +2269,7 @@
 	</firm>
 	<firm>
 		<firmName>Manatt, Phelps &amp; Phillips</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.548</firmScore>
@@ -2289,7 +2289,7 @@
 	</firm>
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.528</firmScore>
@@ -2309,7 +2309,7 @@
 	</firm>
 	<firm>
 		<firmName>Patterson Belknap Webb &amp; Tyler</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.494</firmScore>
@@ -2329,7 +2329,7 @@
 	</firm>
 	<firm>
 		<firmName>O'Melveny &amp; Myers</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.416</firmScore>
@@ -2349,7 +2349,7 @@
 	</firm>
 	<firm>
 		<firmName>Covington &amp; Burling</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.409</firmScore>
@@ -2369,7 +2369,7 @@
 	</firm>
 	<firm>
 		<firmName>Ropes &amp; Gray</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.381</firmScore>
@@ -2389,7 +2389,7 @@
 	</firm>
 	<firm>
 		<firmName>Proskauer Rose</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.371</firmScore>
@@ -2409,7 +2409,7 @@
 	</firm>
 	<firm>
 		<firmName>Gibson, Dunn &amp; Crutcher</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.358</firmScore>
@@ -2429,7 +2429,7 @@
 	</firm>
 	<firm>
 		<firmName>Kaye Scholer</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>4.326</firmScore>
@@ -2449,7 +2449,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>4.311</firmScore>
@@ -2469,7 +2469,7 @@
 	</firm>
 	<firm>
 		<firmName>Weil, Gotshal &amp; Manges</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>4.294</firmScore>
@@ -2489,7 +2489,7 @@
 	</firm>
 	<firm>
 		<firmName>Kirkland &amp; Ellis</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>4.284</firmScore>
@@ -2509,7 +2509,7 @@
 	</firm>
 	<firm>
 		<firmName>Alston &amp; Bird</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>15</firmRank>
 		<firmScore>4.278</firmScore>
@@ -2529,7 +2529,7 @@
 	</firm>
 	<firm>
 		<firmName>Debevoise &amp; Plimpton</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>16</firmRank>
 		<firmScore>4.261</firmScore>
@@ -2549,7 +2549,7 @@
 	</firm>
 	<firm>
 		<firmName>Willkie Farr &amp; Gallagher</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>17</firmRank>
 		<firmScore>4.261</firmScore>
@@ -2569,7 +2569,7 @@
 	</firm>
 	<firm>
 		<firmName>King &amp; Spalding</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>18</firmRank>
 		<firmScore>4.231</firmScore>
@@ -2589,7 +2589,7 @@
 	</firm>
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>19</firmRank>
 		<firmScore>4.200</firmScore>
@@ -2609,7 +2609,7 @@
 	</firm>
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>20</firmRank>
 		<firmScore>4.195</firmScore>
@@ -2629,7 +2629,7 @@
 	</firm>
 	<firm>
 		<firmName>Jenner &amp; Block</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>21</firmRank>
 		<firmScore>4.159</firmScore>
@@ -2649,7 +2649,7 @@
 	</firm>
 	<firm>
 		<firmName>Cadwalader, Wickersham &amp; Taft</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>22</firmRank>
 		<firmScore>4.148</firmScore>
@@ -2669,7 +2669,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>23</firmRank>
 		<firmScore>4.143</firmScore>
@@ -2689,7 +2689,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilmer Cutler Pickering Hale and Dorr</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>24</firmRank>
 		<firmScore>4.143</firmScore>
@@ -2709,7 +2709,7 @@
 	</firm>
 	<firm>
 		<firmName>Blank Rome</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>25</firmRank>
 		<firmScore>4.135</firmScore>
@@ -2729,7 +2729,7 @@
 	</firm>
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>26</firmRank>
 		<firmScore>4.132</firmScore>
@@ -2749,7 +2749,7 @@
 	</firm>
 	<firm>
 		<firmName>Goodwin Procter</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>27</firmRank>
 		<firmScore>4.115</firmScore>
@@ -2769,7 +2769,7 @@
 	</firm>
 	<firm>
 		<firmName>Linklaters</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>28</firmRank>
 		<firmScore>4.101</firmScore>
@@ -2789,7 +2789,7 @@
 	</firm>
 	<firm>
 		<firmName>Allen &amp; Overy</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>29</firmRank>
 		<firmScore>4.083</firmScore>
@@ -2809,7 +2809,7 @@
 	</firm>
 	<firm>
 		<firmName>Hughes Hubbard &amp; Reed</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>30</firmRank>
 		<firmScore>4.073</firmScore>
@@ -2829,7 +2829,7 @@
 	</firm>
 	<firm>
 		<firmName>Cleary Gottlieb Steen &amp; Hamilton</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>31</firmRank>
 		<firmScore>4.068</firmScore>
@@ -2849,7 +2849,7 @@
 	</firm>
 	<firm>
 		<firmName>Simpson Thacher &amp; Bartlett</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>32</firmRank>
 		<firmScore>4.050</firmScore>
@@ -2869,7 +2869,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>33</firmRank>
 		<firmScore>4.035</firmScore>
@@ -2889,7 +2889,7 @@
 	</firm>
 	<firm>
 		<firmName>Morrison &amp; Foerster</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>34</firmRank>
 		<firmScore>4.024</firmScore>
@@ -2909,7 +2909,7 @@
 	</firm>
 	<firm>
 		<firmName>Davis Polk &amp; Wardwell</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>35</firmRank>
 		<firmScore>4.017</firmScore>
@@ -2929,7 +2929,7 @@
 	</firm>
 	<firm>
 		<firmName>Skadden, Arps, Slate, Meagher &amp; Flom</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>36</firmRank>
 		<firmScore>4.013</firmScore>
@@ -2949,7 +2949,7 @@
 	</firm>
 	<firm>
 		<firmName>Cravath, Swaine &amp; Moore</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>37</firmRank>
 		<firmScore>4.004</firmScore>
@@ -2969,7 +2969,7 @@
 	</firm>
 	<firm>
 		<firmName>Chadbourne &amp; Parke</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>38</firmRank>
 		<firmScore>4.000</firmScore>
@@ -2989,7 +2989,7 @@
 	</firm>
 	<firm>
 		<firmName>Fitzpatrick, Cella, Harper &amp; Scinto</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>39</firmRank>
 		<firmScore>3.998</firmScore>
@@ -3009,7 +3009,7 @@
 	</firm>
 	<firm>
 		<firmName>Milbank, Tweed, Hadley &amp; McCloy</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>40</firmRank>
 		<firmScore>3.992</firmScore>
@@ -3029,7 +3029,7 @@
 	</firm>
 	<firm>
 		<firmName>Wachtell, Lipton, Rosen &amp; Katz</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>41</firmRank>
 		<firmScore>3.983</firmScore>
@@ -3049,7 +3049,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>42</firmRank>
 		<firmScore>3.974</firmScore>
@@ -3069,7 +3069,7 @@
 	</firm>
 	<firm>
 		<firmName>Cahill Gordon &amp; Reindel</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>43</firmRank>
 		<firmScore>3.967</firmScore>
@@ -3089,7 +3089,7 @@
 	</firm>
 	<firm>
 		<firmName>Paul, Weiss, Rifkind, Wharton &amp; Garrison</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>44</firmRank>
 		<firmScore>3.950</firmScore>
@@ -3109,7 +3109,7 @@
 	</firm>
 	<firm>
 		<firmName>Dechert</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>45</firmRank>
 		<firmScore>3.941</firmScore>
@@ -3129,7 +3129,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilson Sonsini Goodrich &amp; Rosati</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>46</firmRank>
 		<firmScore>3.917</firmScore>
@@ -3149,7 +3149,7 @@
 	</firm>
 	<firm>
 		<firmName>Boies, Schiller &amp; Flexner</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>47</firmRank>
 		<firmScore>3.908</firmScore>
@@ -3169,7 +3169,7 @@
 	</firm>
 	<firm>
 		<firmName>Carter Ledyard &amp; Milburn</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>48</firmRank>
 		<firmScore>3.797</firmScore>
@@ -3189,7 +3189,7 @@
 	</firm>
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>49</firmRank>
 		<firmScore>3.790</firmScore>
@@ -3209,7 +3209,7 @@
 	</firm>
 	<firm>
 		<firmName>Vedder Price</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>50</firmRank>
 		<firmScore>3.750</firmScore>
@@ -3229,7 +3229,7 @@
 	</firm>
 	<firm>
 		<firmName>Winston &amp; Strawn</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>51</firmRank>
 		<firmScore>3.749</firmScore>
@@ -3249,7 +3249,7 @@
 	</firm>
 	<firm>
 		<firmName>Sidley Austin</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>52</firmRank>
 		<firmScore>3.708</firmScore>
@@ -3269,7 +3269,7 @@
 	</firm>
 	<firm>
 		<firmName>White &amp; Case</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>53</firmRank>
 		<firmScore>3.685</firmScore>
@@ -3289,7 +3289,7 @@
 	</firm>
 	<firm>
 		<firmName>Shearman &amp; Sterling</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>54</firmRank>
 		<firmScore>3.663</firmScore>
@@ -3309,7 +3309,7 @@
 	</firm>
 	<firm>
 		<firmName>McDermott Will &amp; Emery</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>55</firmRank>
 		<firmScore>3.655</firmScore>
@@ -3329,7 +3329,7 @@
 	</firm>
 	<firm>
 		<firmName>Kramer Levin Naftalis &amp; Frankel</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>56</firmRank>
 		<firmScore>3.618</firmScore>
@@ -3349,7 +3349,7 @@
 	</firm>
 	<firm>
 		<firmName>Fried, Frank, Harris, Shriver &amp; Jacobson</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>57</firmRank>
 		<firmScore>3.588</firmScore>
@@ -3369,7 +3369,7 @@
 	</firm>
 	<firm>
 		<firmName>Dentons</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>58</firmRank>
 		<firmScore>3.517</firmScore>
@@ -3389,7 +3389,7 @@
 	</firm>
 	<firm>
 		<firmName>Schulte Roth &amp; Zabel</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>59</firmRank>
 		<firmScore>3.482</firmScore>
@@ -3409,7 +3409,7 @@
 	</firm>
 	<firm>
 		<firmName>Clifford Chance</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>60</firmRank>
 		<firmScore>3.476</firmScore>
@@ -3429,7 +3429,7 @@
 	</firm>
 	<firm>
 		<firmName>Katten Muchin Rosenman</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>61</firmRank>
 		<firmScore>3.400</firmScore>
@@ -3449,7 +3449,7 @@
 	</firm>
 	<firm>
 		<firmName>Kelley Drye &amp; Warren</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>62</firmRank>
 		<firmScore>3.378</firmScore>
@@ -3469,7 +3469,7 @@
 	</firm>
 	<firm>
 		<firmName>Stroock &amp; Stroock &amp; Lavan</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>63</firmRank>
 		<firmScore>3.322</firmScore>
@@ -3489,7 +3489,7 @@
 	</firm>
 	<firm>
 		<firmName>Arnold &amp; Porter</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>64</firmRank>
 		<firmScore>3.316</firmScore>
@@ -3509,7 +3509,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; McKenzie</firmName>
-		<cityname>New York</city>
+		<cityname>New York</cityname>
 		<cityAvgScore>4.002</cityAvgScore>
 		<firmRank>65</firmRank>
 		<firmScore>2.778</firmScore>
@@ -3531,7 +3531,7 @@
 <city cityName="Newark" natRank="37">
 	<firm>
 		<firmName>Gibbons</firmName>
-		<cityname>Newark</city>
+		<cityname>Newark</cityname>
 		<cityAvgScore>3.968</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.121</firmScore>
@@ -3551,7 +3551,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Newark</city>
+		<cityname>Newark</cityname>
 		<cityAvgScore>3.968</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>3.816</firmScore>
@@ -3573,7 +3573,7 @@
 <city cityName="Orange County" natRank="4">
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>Orange County</city>
+		<cityname>Orange County</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.853</firmScore>
@@ -3593,7 +3593,7 @@
 	</firm>
 	<firm>
 		<firmName>O'Melveny &amp; Myers</firmName>
-		<cityname>Orange County</city>
+		<cityname>Orange County</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.841</firmScore>
@@ -3613,7 +3613,7 @@
 	</firm>
 	<firm>
 		<firmName>Gibson, Dunn &amp; Crutcher</firmName>
-		<cityname>Orange County</city>
+		<cityname>Orange County</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.582</firmScore>
@@ -3633,7 +3633,7 @@
 	</firm>
 	<firm>
 		<firmName>Manatt, Phelps &amp; Phillips</firmName>
-		<cityname>Orange County</city>
+		<cityname>Orange County</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.333</firmScore>
@@ -3653,7 +3653,7 @@
 	</firm>
 	<firm>
 		<firmName>Irell &amp; Manella</firmName>
-		<cityname>Orange County</city>
+		<cityname>Orange County</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>3.833</firmScore>
@@ -3673,7 +3673,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Orange County</city>
+		<cityname>Orange County</cityname>
 		<cityAvgScore>4.358</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>3.711</firmScore>
@@ -3695,7 +3695,7 @@
 <city cityName="Philadelphia" natRank="36">
 	<firm>
 		<firmName>Cozen O'Connor</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.781</firmScore>
@@ -3715,7 +3715,7 @@
 	</firm>
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.329</firmScore>
@@ -3735,7 +3735,7 @@
 	</firm>
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.204</firmScore>
@@ -3755,7 +3755,7 @@
 	</firm>
 	<firm>
 		<firmName>Blank Rome</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.053</firmScore>
@@ -3775,7 +3775,7 @@
 	</firm>
 	<firm>
 		<firmName>Duane Morris</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.014</firmScore>
@@ -3795,7 +3795,7 @@
 	</firm>
 	<firm>
 		<firmName>Drinker Biddle &amp; Reath</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.012</firmScore>
@@ -3815,7 +3815,7 @@
 	</firm>
 	<firm>
 		<firmName>Ballard Spahr</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>3.942</firmScore>
@@ -3835,7 +3835,7 @@
 	</firm>
 	<firm>
 		<firmName>Saul Ewing</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>3.875</firmScore>
@@ -3855,7 +3855,7 @@
 	</firm>
 	<firm>
 		<firmName>Stradley Ronon Stevens &amp; Young</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>3.692</firmScore>
@@ -3875,7 +3875,7 @@
 	</firm>
 	<firm>
 		<firmName>Pepper Hamilton</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>3.518</firmScore>
@@ -3895,7 +3895,7 @@
 	</firm>
 	<firm>
 		<firmName>Dechert</firmName>
-		<cityname>Philadelphia</city>
+		<cityname>Philadelphia</cityname>
 		<cityAvgScore>3.984</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>3.408</firmScore>
@@ -3917,7 +3917,7 @@
 <city cityName="Phoenix" natRank="29">
 	<firm>
 		<firmName>Snell &amp; Wilmer</firmName>
-		<cityname>Phoenix</city>
+		<cityname>Phoenix</cityname>
 		<cityAvgScore>4.069</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.321</firmScore>
@@ -3937,7 +3937,7 @@
 	</firm>
 	<firm>
 		<firmName>Perkins Coie</firmName>
-		<cityname>Phoenix</city>
+		<cityname>Phoenix</cityname>
 		<cityAvgScore>4.069</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>3.817</firmScore>
@@ -3959,7 +3959,7 @@
 <city cityName="Pittsburgh" natRank="31">
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>Pittsburgh</city>
+		<cityname>Pittsburgh</cityname>
 		<cityAvgScore>4.038</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.139</firmScore>
@@ -3979,7 +3979,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Pittsburgh</city>
+		<cityname>Pittsburgh</cityname>
 		<cityAvgScore>4.038</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>3.938</firmScore>
@@ -4001,7 +4001,7 @@
 <city cityName="Portland" natRank="17">
 	<firm>
 		<firmName>Davis Wright Tremaine</firmName>
-		<cityname>Portland</city>
+		<cityname>Portland</cityname>
 		<cityAvgScore>4.181</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.181</firmScore>
@@ -4023,7 +4023,7 @@
 <city cityName="Princeton" natRank="7">
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>Princeton</city>
+		<cityname>Princeton</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.333</firmScore>
@@ -4045,7 +4045,7 @@
 <city cityName="Rochester" natRank="41">
 	<firm>
 		<firmName>Harter Secrest &amp; Emery</firmName>
-		<cityname>Rochester</city>
+		<cityname>Rochester</cityname>
 		<cityAvgScore>3.526</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>3.526</firmScore>
@@ -4067,7 +4067,7 @@
 <city cityName="Sacramento" natRank="5">
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
-		<cityname>Sacramento</city>
+		<cityname>Sacramento</cityname>
 		<cityAvgScore>4.335</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.335</firmScore>
@@ -4089,7 +4089,7 @@
 <city cityName="San Antonio" natRank="12">
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
-		<cityname>San Antonio</city>
+		<cityname>San Antonio</cityname>
 		<cityAvgScore>4.227</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.267</firmScore>
@@ -4109,7 +4109,7 @@
 	</firm>
 	<firm>
 		<firmName>Cox Smith Matthews</firmName>
-		<cityname>San Antonio</city>
+		<cityname>San Antonio</cityname>
 		<cityAvgScore>4.227</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.187</firmScore>
@@ -4131,7 +4131,7 @@
 <city cityName="San Diego Metro" natRank="6">
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>San Diego Metro</city>
+		<cityname>San Diego Metro</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.629</firmScore>
@@ -4151,7 +4151,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>San Diego Metro</city>
+		<cityname>San Diego Metro</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.522</firmScore>
@@ -4171,7 +4171,7 @@
 	</firm>
 	<firm>
 		<firmName>Morrison &amp; Foerster</firmName>
-		<cityname>San Diego Metro</city>
+		<cityname>San Diego Metro</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.476</firmScore>
@@ -4191,7 +4191,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>San Diego Metro</city>
+		<cityname>San Diego Metro</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.166</firmScore>
@@ -4211,7 +4211,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilson Sonsini Goodrich &amp; Rosati</firmName>
-		<cityname>San Diego Metro</city>
+		<cityname>San Diego Metro</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.150</firmScore>
@@ -4231,7 +4231,7 @@
 	</firm>
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>San Diego Metro</city>
+		<cityname>San Diego Metro</cityname>
 		<cityAvgScore>4.333</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.059</firmScore>
@@ -4253,7 +4253,7 @@
 <city cityName="San Francisco" natRank="21">
 	<firm>
 		<firmName>Gibson, Dunn &amp; Crutcher</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.548</firmScore>
@@ -4273,7 +4273,7 @@
 	</firm>
 	<firm>
 		<firmName>Kirkland &amp; Ellis</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.536</firmScore>
@@ -4293,7 +4293,7 @@
 	</firm>
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.469</firmScore>
@@ -4313,7 +4313,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.429</firmScore>
@@ -4333,7 +4333,7 @@
 	</firm>
 	<firm>
 		<firmName>O'Melveny &amp; Myers</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.426</firmScore>
@@ -4353,7 +4353,7 @@
 	</firm>
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.343</firmScore>
@@ -4373,7 +4373,7 @@
 	</firm>
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.228</firmScore>
@@ -4393,7 +4393,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.204</firmScore>
@@ -4413,7 +4413,7 @@
 	</firm>
 	<firm>
 		<firmName>Sidley Austin</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.190</firmScore>
@@ -4433,7 +4433,7 @@
 	</firm>
 	<firm>
 		<firmName>Fenwick &amp; West</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.150</firmScore>
@@ -4453,7 +4453,7 @@
 	</firm>
 	<firm>
 		<firmName>Pillsbury Winthrop Shaw Pittman</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>4.024</firmScore>
@@ -4473,7 +4473,7 @@
 	</firm>
 	<firm>
 		<firmName>Morrison &amp; Foerster</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>3.932</firmScore>
@@ -4493,7 +4493,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilson Sonsini Goodrich &amp; Rosati</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>3.805</firmScore>
@@ -4513,7 +4513,7 @@
 	</firm>
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>3.578</firmScore>
@@ -4533,7 +4533,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; McKenzie</firmName>
-		<cityname>San Francisco</city>
+		<cityname>San Francisco</cityname>
 		<cityAvgScore>4.161</cityAvgScore>
 		<firmRank>15</firmRank>
 		<firmScore>3.575</firmScore>
@@ -4555,7 +4555,7 @@
 <city cityName="Seattle" natRank="16">
 	<firm>
 		<firmName>Perkins Coie</firmName>
-		<cityname>Seattle</city>
+		<cityname>Seattle</cityname>
 		<cityAvgScore>4.198</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.368</firmScore>
@@ -4575,7 +4575,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>Seattle</city>
+		<cityname>Seattle</cityname>
 		<cityAvgScore>4.198</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.208</firmScore>
@@ -4595,7 +4595,7 @@
 	</firm>
 	<firm>
 		<firmName>Davis Wright Tremaine</firmName>
-		<cityname>Seattle</city>
+		<cityname>Seattle</cityname>
 		<cityAvgScore>4.198</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.133</firmScore>
@@ -4615,7 +4615,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Seattle</city>
+		<cityname>Seattle</cityname>
 		<cityAvgScore>4.198</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.082</firmScore>
@@ -4637,7 +4637,7 @@
 <city cityName="Silicon Valley" natRank="19">
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.633</firmScore>
@@ -4657,7 +4657,7 @@
 	</firm>
 	<firm>
 		<firmName>Paul Hastings</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.633</firmScore>
@@ -4677,7 +4677,7 @@
 	</firm>
 	<firm>
 		<firmName>Skadden, Arps, Slate, Meagher &amp; Flom</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.487</firmScore>
@@ -4697,7 +4697,7 @@
 	</firm>
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.442</firmScore>
@@ -4717,7 +4717,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilmer Cutler Pickering Hale and Dorr</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.436</firmScore>
@@ -4737,7 +4737,7 @@
 	</firm>
 	<firm>
 		<firmName>Gunderson Dettmer Stough Villeneuve Franklin &amp; Hachigian</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.418</firmScore>
@@ -4757,7 +4757,7 @@
 	</firm>
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.400</firmScore>
@@ -4777,7 +4777,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.194</firmScore>
@@ -4797,7 +4797,7 @@
 	</firm>
 	<firm>
 		<firmName>Morrison &amp; Foerster</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.167</firmScore>
@@ -4817,7 +4817,7 @@
 	</firm>
 	<firm>
 		<firmName>Fenwick &amp; West</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.157</firmScore>
@@ -4837,7 +4837,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>3.936</firmScore>
@@ -4857,7 +4857,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilson Sonsini Goodrich &amp; Rosati</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>3.593</firmScore>
@@ -4877,7 +4877,7 @@
 	</firm>
 	<firm>
 		<firmName>Davis Polk &amp; Wardwell</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>3.500</firmScore>
@@ -4897,7 +4897,7 @@
 	</firm>
 	<firm>
 		<firmName>White &amp; Case</firmName>
-		<cityname>Silicon Valley</city>
+		<cityname>Silicon Valley</cityname>
 		<cityAvgScore>4.173</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>3.429</firmScore>
@@ -4919,7 +4919,7 @@
 <city cityName="St. Louis" natRank="20">
 	<firm>
 		<firmName>Thompson Coburn</firmName>
-		<cityname>St. Louis</city>
+		<cityname>St. Louis</cityname>
 		<cityAvgScore>4.162</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.162</firmScore>
@@ -4941,7 +4941,7 @@
 <city cityName="Tampa" natRank="22">
 	<firm>
 		<firmName>Carlton Fields</firmName>
-		<cityname>Tampa</city>
+		<cityname>Tampa</cityname>
 		<cityAvgScore>4.146</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.146</firmScore>
@@ -4963,7 +4963,7 @@
 <city cityName="Washington Metro" natRank="28">
 	<firm>
 		<firmName>Ropes &amp; Gray</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.817</firmScore>
@@ -4983,7 +4983,7 @@
 	</firm>
 	<firm>
 		<firmName>Paul Hastings</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>2</firmRank>
 		<firmScore>4.776</firmScore>
@@ -5003,7 +5003,7 @@
 	</firm>
 	<firm>
 		<firmName>Akin Gump Strauss Hauer &amp; Feld</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>3</firmRank>
 		<firmScore>4.692</firmScore>
@@ -5023,7 +5023,7 @@
 	</firm>
 	<firm>
 		<firmName>O'Melveny &amp; Myers</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>4</firmRank>
 		<firmScore>4.617</firmScore>
@@ -5043,7 +5043,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>5</firmRank>
 		<firmScore>4.557</firmScore>
@@ -5063,7 +5063,7 @@
 	</firm>
 	<firm>
 		<firmName>Latham &amp; Watkins</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>6</firmRank>
 		<firmScore>4.555</firmScore>
@@ -5083,7 +5083,7 @@
 	</firm>
 	<firm>
 		<firmName>Williams &amp; Connolly</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>7</firmRank>
 		<firmScore>4.543</firmScore>
@@ -5103,7 +5103,7 @@
 	</firm>
 	<firm>
 		<firmName>Gibson, Dunn &amp; Crutcher</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>8</firmRank>
 		<firmScore>4.450</firmScore>
@@ -5123,7 +5123,7 @@
 	</firm>
 	<firm>
 		<firmName>Goodwin Procter</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>9</firmRank>
 		<firmScore>4.444</firmScore>
@@ -5143,7 +5143,7 @@
 	</firm>
 	<firm>
 		<firmName>Vinson &amp; Elkins</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>10</firmRank>
 		<firmScore>4.430</firmScore>
@@ -5163,7 +5163,7 @@
 	</firm>
 	<firm>
 		<firmName>Alston &amp; Bird</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>11</firmRank>
 		<firmScore>4.409</firmScore>
@@ -5183,7 +5183,7 @@
 	</firm>
 	<firm>
 		<firmName>K&amp;L Gates</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>12</firmRank>
 		<firmScore>4.376</firmScore>
@@ -5203,7 +5203,7 @@
 	</firm>
 	<firm>
 		<firmName>Cadwalader, Wickersham &amp; Taft</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>13</firmRank>
 		<firmScore>4.363</firmScore>
@@ -5223,7 +5223,7 @@
 	</firm>
 	<firm>
 		<firmName>Arent Fox</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>14</firmRank>
 		<firmScore>4.344</firmScore>
@@ -5243,7 +5243,7 @@
 	</firm>
 	<firm>
 		<firmName>Foley &amp; Lardner</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>15</firmRank>
 		<firmScore>4.323</firmScore>
@@ -5263,7 +5263,7 @@
 	</firm>
 	<firm>
 		<firmName>BuckleySandler</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>16</firmRank>
 		<firmScore>4.269</firmScore>
@@ -5283,7 +5283,7 @@
 	</firm>
 	<firm>
 		<firmName>Pillsbury Winthrop Shaw Pittman</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>17</firmRank>
 		<firmScore>4.222</firmScore>
@@ -5303,7 +5303,7 @@
 	</firm>
 	<firm>
 		<firmName>Finnegan, Henderson, Farabow, Garrett &amp; Dunner</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>18</firmRank>
 		<firmScore>4.175</firmScore>
@@ -5323,7 +5323,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilson Sonsini Goodrich &amp; Rosati</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>19</firmRank>
 		<firmScore>4.175</firmScore>
@@ -5343,7 +5343,7 @@
 	</firm>
 	<firm>
 		<firmName>DLA Piper</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>20</firmRank>
 		<firmScore>4.148</firmScore>
@@ -5363,7 +5363,7 @@
 	</firm>
 	<firm>
 		<firmName>Wilmer Cutler Pickering Hale and Dorr</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>21</firmRank>
 		<firmScore>4.138</firmScore>
@@ -5383,7 +5383,7 @@
 	</firm>
 	<firm>
 		<firmName>Fried, Frank, Harris, Shriver &amp; Jacobson</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>22</firmRank>
 		<firmScore>4.131</firmScore>
@@ -5403,7 +5403,7 @@
 	</firm>
 	<firm>
 		<firmName>King &amp; Spalding</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>23</firmRank>
 		<firmScore>4.113</firmScore>
@@ -5423,7 +5423,7 @@
 	</firm>
 	<firm>
 		<firmName>Skadden, Arps, Slate, Meagher &amp; Flom</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>24</firmRank>
 		<firmScore>4.111</firmScore>
@@ -5443,7 +5443,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; McKenzie</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>25</firmRank>
 		<firmScore>4.106</firmScore>
@@ -5463,7 +5463,7 @@
 	</firm>
 	<firm>
 		<firmName>Covington &amp; Burling</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>26</firmRank>
 		<firmScore>4.092</firmScore>
@@ -5483,7 +5483,7 @@
 	</firm>
 	<firm>
 		<firmName>Clifford Chance</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>27</firmRank>
 		<firmScore>4.086</firmScore>
@@ -5503,7 +5503,7 @@
 	</firm>
 	<firm>
 		<firmName>Sidley Austin</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>28</firmRank>
 		<firmScore>4.084</firmScore>
@@ -5523,7 +5523,7 @@
 	</firm>
 	<firm>
 		<firmName>McDermott Will &amp; Emery</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>29</firmRank>
 		<firmScore>4.078</firmScore>
@@ -5543,7 +5543,7 @@
 	</firm>
 	<firm>
 		<firmName>Hogan Lovells</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>30</firmRank>
 		<firmScore>4.054</firmScore>
@@ -5563,7 +5563,7 @@
 	</firm>
 	<firm>
 		<firmName>Morrison &amp; Foerster</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>31</firmRank>
 		<firmScore>4.046</firmScore>
@@ -5583,7 +5583,7 @@
 	</firm>
 	<firm>
 		<firmName>Sheppard Mullin Richter &amp; Hampton</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>32</firmRank>
 		<firmScore>4.023</firmScore>
@@ -5603,7 +5603,7 @@
 	</firm>
 	<firm>
 		<firmName>Steptoe &amp; Johnson LLP</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>33</firmRank>
 		<firmScore>3.942</firmScore>
@@ -5623,7 +5623,7 @@
 	</firm>
 	<firm>
 		<firmName>Arnold &amp; Porter</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>34</firmRank>
 		<firmScore>3.934</firmScore>
@@ -5643,7 +5643,7 @@
 	</firm>
 	<firm>
 		<firmName>Orrick, Herrington &amp; Sutcliffe</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>35</firmRank>
 		<firmScore>3.907</firmScore>
@@ -5663,7 +5663,7 @@
 	</firm>
 	<firm>
 		<firmName>Willkie Farr &amp; Gallagher</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>36</firmRank>
 		<firmScore>3.898</firmScore>
@@ -5683,7 +5683,7 @@
 	</firm>
 	<firm>
 		<firmName>Baker &amp; Hostetler</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>37</firmRank>
 		<firmScore>3.874</firmScore>
@@ -5703,7 +5703,7 @@
 	</firm>
 	<firm>
 		<firmName>Holland &amp; Knight</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>38</firmRank>
 		<firmScore>3.804</firmScore>
@@ -5723,7 +5723,7 @@
 	</firm>
 	<firm>
 		<firmName>Hughes Hubbard &amp; Reed</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>39</firmRank>
 		<firmScore>3.794</firmScore>
@@ -5743,7 +5743,7 @@
 	</firm>
 	<firm>
 		<firmName>Cooley</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>40</firmRank>
 		<firmScore>3.763</firmScore>
@@ -5763,7 +5763,7 @@
 	</firm>
 	<firm>
 		<firmName>Crowell &amp; Moring</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>41</firmRank>
 		<firmScore>3.700</firmScore>
@@ -5783,7 +5783,7 @@
 	</firm>
 	<firm>
 		<firmName>Katten Muchin Rosenman</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>42</firmRank>
 		<firmScore>3.694</firmScore>
@@ -5803,7 +5803,7 @@
 	</firm>
 	<firm>
 		<firmName>Paul, Weiss, Rifkind, Wharton &amp; Garrison</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>43</firmRank>
 		<firmScore>3.650</firmScore>
@@ -5823,7 +5823,7 @@
 	</firm>
 	<firm>
 		<firmName>Kirkland &amp; Ellis</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>44</firmRank>
 		<firmScore>3.625</firmScore>
@@ -5843,7 +5843,7 @@
 	</firm>
 	<firm>
 		<firmName>Reed Smith</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>45</firmRank>
 		<firmScore>3.623</firmScore>
@@ -5863,7 +5863,7 @@
 	</firm>
 	<firm>
 		<firmName>Morgan, Lewis &amp; Bockius</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>46</firmRank>
 		<firmScore>3.615</firmScore>
@@ -5883,7 +5883,7 @@
 	</firm>
 	<firm>
 		<firmName>Davis Polk &amp; Wardwell</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>47</firmRank>
 		<firmScore>3.592</firmScore>
@@ -5903,7 +5903,7 @@
 	</firm>
 	<firm>
 		<firmName>Mayer Brown</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>48</firmRank>
 		<firmScore>3.591</firmScore>
@@ -5923,7 +5923,7 @@
 	</firm>
 	<firm>
 		<firmName>Dechert</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>49</firmRank>
 		<firmScore>3.570</firmScore>
@@ -5943,7 +5943,7 @@
 	</firm>
 	<firm>
 		<firmName>White &amp; Case</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>50</firmRank>
 		<firmScore>3.452</firmScore>
@@ -5963,7 +5963,7 @@
 	</firm>
 	<firm>
 		<firmName>Dickstein Shapiro</firmName>
-		<cityname>Washington Metro</city>
+		<cityname>Washington Metro</cityname>
 		<cityAvgScore>4.082</cityAvgScore>
 		<firmRank>51</firmRank>
 		<firmScore>3.407</firmScore>
@@ -5985,7 +5985,7 @@
 <city cityName="Wilmington" natRank="26">
 	<firm>
 		<firmName>Young Conaway Stargatt &amp; Taylor</firmName>
-		<cityname>Wilmington</city>
+		<cityname>Wilmington</cityname>
 		<cityAvgScore>4.092</cityAvgScore>
 		<firmRank>1</firmRank>
 		<firmScore>4.092</firmScore>
