@@ -9,7 +9,7 @@
 #midlevel_associate_survey-map2_container { width:503px; height:436px; background-image:url('images/map2_bg.png'); background-repeat:no-repeat; position:absolute; display:none; right:10px; z-index:7; }
 #midlevel_associate_survey-map2_img { z-index:6; position:absolute; visibility:hidden; right:10px; }
 
-#tablescroll_head {font-size:12px;}
+.tablescroll_head {font-size:12px;}
 
 /*map zoom*/
 #midlevel_associate_survey-map_zoom { width:134px; height:109px; background-image:url('images/map_zoom.png'); background-repeat:no-repeat; position:absolute; top:140px; right:30px; cursor:pointer; }
