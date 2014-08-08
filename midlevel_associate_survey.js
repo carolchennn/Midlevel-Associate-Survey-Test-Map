@@ -322,10 +322,11 @@ function initNav(xml){
 	$('table.tablescroll > tbody tr').click(function(){
 		var firmname = $(this).find('#midlevel_associate_survey-table-firmname').text();
 		var city = $('#midlevel_associate_survey-table-cityname').html();
-		var cityname;
 		
 		$('#midlevel_associate_survey-answers-firmname').html(firmname);
 		$('#midlevel_associate_survey-answers-firmname').css('text-transform', 'uppercase');
+		
+		$('#midlevel_associate_survey-answers-cityname').html(cityname);
 		
 		//clear the data
 		$('#midlevel_associate_survey-interesting').html('');
@@ -358,7 +359,7 @@ function initNav(xml){
 						var attitude = $(this).find('attitude').text();
 						var expect2years = $(this).find('expect2years').text();
 						var overall = $(this).find('overall').text();
-						cityname = $(this).find('cityname').text();
+						var cityname = $(this).find('cityname').text();
 						
 						//display the data
 						$('#midlevel_associate_survey-interesting').html(interestingWork);
@@ -380,8 +381,6 @@ function initNav(xml){
 				})
 			}
 		});
-		
-		$('#midlevel_associate_survey-answers-cityname').html(cityname);
 	});
 	
 	//close
