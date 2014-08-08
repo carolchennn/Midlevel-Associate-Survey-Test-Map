@@ -342,7 +342,7 @@ function initNav(xml){
 		$('#midlevel_associate_survey-overall').html('');
 		
 		$(xml).find('city').each(function(){
-			if($(this).attr('cityname').toUpperCase() == city){
+			if($(this).attr('cityName').toUpperCase() == city){
 				$(this).find('firm').each(function(){
 					if($(this).find('firmName').text() == firmname){
 						//get the data
@@ -374,7 +374,7 @@ function initNav(xml){
 						$('#midlevel_associate_survey-expect').html(expect2years);
 						$('#midlevel_associate_survey-overall').html(overall);
 						
-						$('#midlevel_associate_survey-answers_container ').css('display', 'block');
+						$('#midlevel_associate_survey-answers_container').css('display', 'block');
 						$('#midlevel_associate_survey-answers_container').draggable();
 					}
 				})
