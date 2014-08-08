@@ -21,7 +21,7 @@
 		<overall>3.80</overall>
 	</firm>
     </city>
-     <city cityName="Armonk" natRank="10">
+    <city cityName="Armonk" natRank="10">
 	<firm>
 		<firmName>Boies, Schiller &amp; Flexner</firmName>
 		<city>Armonk</city>
@@ -42,7 +42,7 @@
 		<expect2years>4.43</expect2years>
 		<overall>4.71</overall>
 	</firm>
-</city>
+     </city>
 <city cityName="Atlanta" natRank="14">
 	<firm>
 		<firmName>Paul Hastings</firmName>
