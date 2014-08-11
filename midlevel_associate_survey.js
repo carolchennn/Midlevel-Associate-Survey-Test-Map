@@ -361,6 +361,7 @@ function initNav(xml){
 						var cityname = $(this).find('cityname').text();
 						
 						//display the data
+						$('#midlevel_associate_survey-answers-cityname').html(cityname);
 						$('#midlevel_associate_survey-interesting').html(interestingWork);
 						$('#midlevel_associate_survey-satisfying').html(satisfyingWork);
 						$('#midlevel_associate_survey-benefits').html(benefits);
@@ -380,7 +381,6 @@ function initNav(xml){
 				});
 			}
 		});
-		$('#midlevel_associate_survey-answers-cityname').html(cityname);
 	});
 	
 	//close
