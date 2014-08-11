@@ -318,14 +318,14 @@ function initNav(xml){
 		$('#midlevel_associate_survey-clickformore', this).css('display', 'none');
 	});
 	
-	//click
+//click
 	$('table.tablescroll > tbody tr').click(function(){
 		var firmname = $(this).find('#midlevel_associate_survey-table-firmname').text();
 		var city = $('#midlevel_associate_survey-table-cityname').html();
+		var cityname;
 		
 		$('#midlevel_associate_survey-answers-firmname').html(firmname);
 		$('#midlevel_associate_survey-answers-firmname').css('text-transform', 'uppercase');
-		
 		
 		//clear the data
 		$('#midlevel_associate_survey-interesting').html('');
@@ -358,10 +358,9 @@ function initNav(xml){
 						var attitude = $(this).find('attitude').text();
 						var expect2years = $(this).find('expect2years').text();
 						var overall = $(this).find('overall').text();
-						var cityname = $(this).find('cityname').text();
+						cityname = $(this).find('cityname').text();
 						
 						//display the data
-						$('#midlevel_associate_survey-answers-cityname').html(cityname);
 						$('#midlevel_associate_survey-interesting').html(interestingWork);
 						$('#midlevel_associate_survey-satisfying').html(satisfyingWork);
 						$('#midlevel_associate_survey-benefits').html(benefits);
@@ -375,12 +374,14 @@ function initNav(xml){
 						$('#midlevel_associate_survey-expect').html(expect2years);
 						$('#midlevel_associate_survey-overall').html(overall);
 						
-						$('#midlevel_associate_survey-answers_container').css('display', 'block');
+						$('#midlevel_associate_survey-answers_container ').css('display', 'block');
 						$('#midlevel_associate_survey-answers_container').draggable();
 					}
-				});
+				})
 			}
 		});
+		
+		$('#midlevel_associate_survey-answers-cityname').html(cityname);
 	});
 	
 	//close
