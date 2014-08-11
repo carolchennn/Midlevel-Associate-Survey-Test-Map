@@ -35,7 +35,7 @@ table.tablescroll > tbody tr { cursor:pointer; }
 
 #midlevel_associate_survey-answers-firmname { margin-left:18px; font-weight:bold; font-size:11pt; color:#000000; position:relative; }
 #midlevel_associate_survey-answers-cityname { font-size:10pt; color:#000000; margin-left:18px;}
-#midlevel_associate_survey-answers-close { font-size:12pt; font-weight:bold; color:#000000; position:relative; cursor:pointer; margin-top:5px; }
+#midlevel_associate_survey-answers-close { font-size:12pt; font-weight:bold; color:#000000; position:relative; cursor:pointer;}
 .midlevel_associate_survey-answer { font-weight:bold; }
 
 #midlevel_associate_survey-footer { color:#000000; margin-top:15px; }
