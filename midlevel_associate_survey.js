@@ -311,7 +311,7 @@ function initNav(xml){
 	//hover
 	$('table.tablescroll > tbody tr').hover(function(){
 		backgroundcolor = $(this).css('background-color');
-		$(this).css("cssText", "color: #fff !important; background-color: #E0E0E0 !important;");
+		$(this).css("cssText", "color: #fff !important; background-color: #808080 !important;");
 		$('#midlevel_associate_survey-clickformore', this).css('display', 'block');
 	}, function(){
 		$(this).css("cssText", "color: #000000 !important; background-color:"+backgroundcolor+" !important;");
