@@ -2,7 +2,7 @@
 #chartIA tr:hover td { color:#fff !important; }
 #midlevel_associate_survey-salary_table-container tr:hover td { color:#808080 !important; }
 
-#midlevel_associate_survey-container { width:730px; height:auto; font-family:helvetica, arial; font-size:9pt; color:#000000; text-align:left; position:relative; margin-left:30px; padding:6px; border-radius:1px; background-color:#FFF; box-shadow:1px 1px 5px #CCC; border:1px solid #CCC; }
+#midlevel_associate_survey-container { width:730px; height:auto; font-family:helvetica, arial; font-size:9pt; color:#000000; text-align:left; position:relative; margin-left:30px;}
 
 /*maps*/
 #midlevel_associate_survey-map1_container { width:730px; height:436px; background-image:url('images/map_bg.png'); background-repeat:no-repeat; }
@@ -28,7 +28,7 @@ table.tablescroll > tbody tr { cursor:pointer; }
 #midlevel_associate_survey-clickformore { display:none; }
 
 /*survey*/
-#midlevel_associate_survey-answers_container { display:none; width:397px; height:auto; position:absolute; top:10px; left:10px; z-index:7; cursor:pointer; }
+#midlevel_associate_survey-answers_container { display:none; width:397px; height:auto; position:absolute; top:10px; left:10px; z-index:7; cursor:pointer;padding:6px; border-radius:1px; background-color:#FFF; box-shadow:1px 1px 5px #CCC; border:1px solid #CCC; }
 
 #midlevel_associate_survey-answers-bot-mid ul { list-style-type:none; margin:0; padding:5px 0 5px 0; font-size:10pt; color:#000000;  }
 #midlevel_associate_survey-answers-bot-mid ul li { padding:7px 0; margin:0 20px; }
