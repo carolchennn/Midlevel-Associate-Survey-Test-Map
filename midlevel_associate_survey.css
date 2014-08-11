@@ -33,7 +33,7 @@ table.tablescroll > tbody tr { cursor:pointer; }
 #midlevel_associate_survey-answers-bot-mid ul { list-style-type:none; margin:0; padding:5px 0 5px 0; font-size:10pt; color:#000000;  }
 #midlevel_associate_survey-answers-bot-mid ul li { padding:7px 0; margin:0 20px; }
 
-#midlevel_associate_survey-answers-firmname { margin-left:18px; font-weight:bold; font-size:10pt; color:#000000; position:relative; margin-top:5px; }
+#midlevel_associate_survey-answers-firmname { margin-left:19px; font-weight:bold; font-size:10pt; color:#000000; position:relative; margin-top:5px; }
 #midlevel_associate_survey-answers-cityname { font-size:10pt; color:#000000; margin-left:18px;display:none;}
 #midlevel_associate_survey-answers-close { font-size:12pt; font-weight:bold; color:#000000; position:relative; cursor:pointer;}
 .midlevel_associate_survey-answer { font-weight:bold; }
